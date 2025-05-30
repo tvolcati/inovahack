@@ -17,7 +17,7 @@ const config = {
 
   // Set the production url of your site here
   url: "https://miguelclaret.github.io",
-  baseUrl: "/vilavelha/",
+  baseUrl: "/hackathon-vila-velha/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
