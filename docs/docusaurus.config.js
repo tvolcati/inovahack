@@ -22,7 +22,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "miguelclaret", // Usually your GitHub org/user name.
-  projectName: "VilhaVelha", // Usually your repo name.
+  projectName: "hackathon-vila-velha", // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
