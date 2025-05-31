@@ -4,13 +4,21 @@ sidebar_position: 1
 ---
 
 # Mapeamento do Problema
-O projeto Vaporaid visa enfrentar uma crítica interseção de desafios: a vulnerabilidade social e sanitária de comunidades marginalizadas no combate às arboviroses e, secundariamente, a crescente questão do descarte de resíduos eletrônicos. A democratização do acesso a meios eficazes de proteção contra o *Aedes aegypti* é o pilar central desta iniciativa.
+
+&emsp;O projeto Vaporaid visa enfrentar uma crítica interseção de desafios: a vulnerabilidade social e sanitária de comunidades marginalizadas no combate às arboviroses e, secundariamente, a crescente questão do descarte de resíduos eletrônicos. A democratização do acesso a meios eficazes de proteção contra o *Aedes aegypti* é o pilar central desta iniciativa.
 
 ---
 
 ### Problema Central 1: A Desigualdade no Acesso à Prevenção Contra o *Aedes aegypti* e a Vulnerabilidade de Comunidades
 
-A incidência e o impacto da dengue, zika e chikungunya não são uniformemente distribuídos pela população. Comunidades socioeconomicamente desfavorecidas, localizadas em periferias urbanas, áreas rurais isoladas, favelas, palafitas e assentamentos irregulares, carregam o fardo mais pesado dessas doenças.
+&emsp;O Brasil enfrenta um desafio de saúde pública persistente e de grande magnitude representado pelas doenças transmitidas por mosquitos, notadamente dengue, Zika e chikungunya. Estas arboviroses impõem uma carga significativa ao sistema de saúde, à economia e ao bem-estar da população, com epidemias recorrentes que testam a capacidade de resposta do país.
+
+&emsp;A incidência e o impacto dessas doenças não atingem a população de maneira uniforme. Comunidades socioeconomicamente desfavorecidas, localizadas em periferias urbanas, áreas rurais isoladas, favelas, palafitas e assentamentos irregulares, carregam o fardo mais pesado dessas doenças.
+
+* **Impacto das Arboviroses a Nível Nacional**
+   * O Brasil vivenciou em 2024 uma epidemia de dengue de proporções alarmantes. Até a Semana Epidemiológica (SE) 26, foram notificados 6.215.201 casos prováveis da doença, o que representa uma taxa de incidência de 3.060,7 casos por 100.000 habitantes. Este número é 344,5% superior ao registrado no mesmo período de 2023, evidenciando uma escalada preocupante da transmissão. Tragicamente, 4.269 óbitos por dengue foram confirmados até essa data, com uma taxa de letalidade entre os casos graves (dengue com sinais de alarme e dengue grave) de 5,1%. A situação da chikungunya também inspira cuidados, com 233.225 casos prováveis (incidência de 114,9 casos/100.000 habitantes) e 134 mortes confirmadas até a SE 26 de 2024. Já os casos prováveis de Zika totalizaram 8.519 (incidência de 4,2 casos/100.000 habitantes) até a SE 23 de 2024, com 764 gestantes entre os casos notificados, um dado particularmente sensível devido à associação do vírus com a microcefalia e outras malformações congênitas.  
+
+   * As projeções para os anos subsequentes não são otimistas. Dados preliminares de 2025 já indicam que o país pode enfrentar um cenário ainda mais grave. No estado de São Paulo, por exemplo, o número de casos suspeitos de dengue nas primeiras quatro semanas de 2025 já era 50% superior ao registrado no mesmo período de 2024, um ano que, por si só, já havia batido recordes históricos
 
 * **Acesso Geográfico e Logístico Limitado a Soluções Existentes:**
     * Ações governamentais como o "carro do fumacê" (UBV – Ultra Baixo Volume) têm sua eficácia reduzida ou inviabilizada em áreas de difícil acesso, como vielas estreitas, becos, terrenos acidentados e moradias densamente agrupadas onde os veículos não conseguem transitar ou a dispersão do inseticida não é homogênea.
@@ -18,7 +26,6 @@ A incidência e o impacto da dengue, zika e chikungunya não são uniformemente 
     * Populações em áreas rurais remotas ou de difícil acesso fluvial também podem ficar desassistidas por essas intervenções logísticas complexas.
 
     * Segundo o IBGE, em 2022, 15,7% dos domicílios brasileiros ainda não tinham acesso adequado a coleta de lixo, e 16,5% não possuíam acesso a rede geral de esgoto ou fossa séptica (IBGE, Síntese de Indicadores Sociais 2023). O Ministério da Saúde reconhece que a cobertura do fumacê é limitada em áreas de difícil acesso, especialmente em favelas e comunidades ribeirinhas (Ministério da Saúde, Boletim Epidemiológico, 2024).
-
 
 
 * **Condições Socioambientais Propícias à Proliferação do Vetor:**
@@ -36,13 +43,13 @@ A incidência e o impacto da dengue, zika e chikungunya não são uniformemente 
     * A perda de dias de trabalho devido à doença própria ou de familiares impacta de forma mais severa orçamentos já precarizados, perpetuando ciclos de pobreza.
     * O custo médio de internação por dengue no SUS é de R$ 1.400 por paciente (Ministério da Saúde, 2023). Em 2024, o Brasil registrou mais de 4 milhões de casos prováveis de dengue até maio, com mais de 2.800 óbitos confirmados – a maior parte em regiões de maior vulnerabilidade (Ministério da Saúde, Painel de Arboviroses, 2024).
 
-A proposta do Vaporaid de levar uma solução de proteção individualizada e de baixo custo diretamente para dentro dos lares dessas comunidades visa, portanto, a **democratização da defesa contra o *Aedes aegypti***, atuando onde as soluções macro muitas vezes não chegam.
+&emsp;A proposta do Vaporaid de levar uma solução de proteção individualizada e de baixo custo diretamente para dentro dos lares dessas comunidades visa, portanto, a **democratização da defesa contra o *Aedes aegypti***, atuando onde as soluções macro muitas vezes não chegam.
 
 ---
 
 ### Problema Central 2: O Passivo Ambiental e Logístico dos Cigarros Eletrônicos Apreendidos
 
-Embora o foco principal do Vaporaid seja a equidade em saúde, o projeto também oferece uma solução inteligente para o problema crescente do descarte de cigarros eletrônicos (pods/vapes) apreendidos pela Receita Federal e outros órgãos. Este problema, embora secundário à missão principal, não é desprezível.
+&emsp;Embora o foco principal do Vaporaid seja a equidade em saúde, o projeto também oferece uma solução inteligente para o problema crescente do descarte de cigarros eletrônicos (pods/vapes) apreendidos pela Receita Federal e outros órgãos. Este problema, embora secundário à missão principal, não é desprezível.
 
 * **Volume Crescente de Resíduos Eletrônicos (E-lixo):**
     * Cigarros eletrônicos são uma categoria de e-lixo em rápida expansão global e nacional, com apreensões aumentando o volume que o poder público precisa gerenciar.
@@ -59,7 +66,7 @@ Embora o foco principal do Vaporaid seja a equidade em saúde, o projeto também
     * O armazenamento prolongado desses materiais apreendidos também gera custos e riscos para os órgãos públicos.
     * O custo médio para reciclagem de 1 tonelada de e-lixo no Brasil é de R$ 2.500 a R$ 4.000 (Abrelpe, Panorama dos Resíduos Sólidos 2023). A Receita Federal estima que o armazenamento de cargas apreendidas de cigarros eletrônicos gera custos logísticos de até R$ 500 mil por ano em grandes portos (Receita Federal, Relatórios de Gestão 2023).
 
-O Vaporaid, ao propor o recondicionamento e a reutilização de componentes chave desses pods apreendidos, transforma um passivo ambiental e um custo logístico em um ativo para a saúde pública, alinhando-se com princípios da economia circular.
+&emsp;O Vaporaid, ao propor o recondicionamento e a reutilização de componentes chave desses pods apreendidos, transforma um passivo ambiental e um custo logístico em um ativo para a saúde pública, alinhando-se com princípios da economia circular.
 
 ---
 
