@@ -33,7 +33,7 @@ O projeto Vaporaid se destaca por sua abordagem inovadora que integra saúde pú
 
 ---
 
-**Fontes:**
+**Referências:**
 
 1. Ministério do Meio Ambiente e Mudança do Clima (MMA). Relatório MINARE 2023. Disponível em: https://mma.gov.br/minare  
 2. CETESB. Manual de Gerenciamento de Resíduos de Baterias e Acumuladores. São Paulo, 2023.  
