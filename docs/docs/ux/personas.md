@@ -18,7 +18,7 @@ sidebar_position: 1
 <p style={{textAlign: 'center'}}>Figura 1 - Maria Eunice Freitas</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../../../static/img/persona-maria.png").default} style={{width: 800}} alt="Persona Maria Eunice" />
+        <img src={require("../../static/img/persona-maria.png").default} style={{width: 800}} alt="Persona Maria Eunice" />
         <br />
     </div>
 </div>
@@ -35,7 +35,7 @@ sidebar_position: 1
 <p style={{textAlign: 'center'}}>Figura 2 - Valentina Faria de Lima</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../../../static/img/persona-valentina.png").default} style={{width: 800}} alt="Persona Valentina Faria de Lima" />
+        <img src={require("../../static/img/persona-valentina.png").default} style={{width: 800}} alt="Persona Valentina Faria de Lima" />
         <br />
     </div>
 </div>
@@ -52,7 +52,7 @@ sidebar_position: 1
 <p style={{textAlign: 'center'}}>Figura 3 - Carlos Macedo Pontes</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../../../static/img/persona-carlos.png").default} style={{width: 800}} alt="Persona Carlos Macedo Pontes" />
+        <img src={require("../../static/img/persona-carlos.png").default} style={{width: 800}} alt="Persona Carlos Macedo Pontes" />
         <br />
     </div>
 </div>
