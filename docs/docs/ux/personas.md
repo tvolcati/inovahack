@@ -15,11 +15,14 @@ sidebar_position: 1
 
 ## Persona 1: Maria Eunice Freitas
 
-<div align="center"> 
-  <sub>Figura 1 - Maria Eunice Freitas</sub> 
-  <img src="../../static/img/persona-maria.png" width="100%"/> 
-  <sup>Fonte: Material produzido pelos autores (2025)</sup> 
+<p style={{textAlign: 'center'}}>Figura 1 - Maria Eunice Freitas</p>
+<div style={{margin: 25}}>
+    <div style={{textAlign: 'center'}}>
+        <img src={require("../../../../static/img/persona-maria.png").default} style={{width: 800}} alt="Persona Maria Eunice" />
+        <br />
+    </div>
 </div>
+<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
 &emsp;Maria Eunice Freitas, uma artesã de 38 anos que trabalha com fibras vegetais, é casada e mãe de dois filhos. Seu foco principal é manter e prover segurança para sua família, um desafio constante em uma região com alto índice de doenças transmitidas por mosquitos. Preocupada, ela está sempre em busca de informações sobre métodos eficazes para repelir esses insetos, e é nesse contexto que os "_vaporaids_" (provavelmente vaporizadores ou difusores de repelentes) entram em sua consideração como uma possível solução. 
 
@@ -29,11 +32,14 @@ sidebar_position: 1
 
 ## Persona 2: Valentina Faria de Lima
 
-<div align="center"> 
-  <sub>Figura 2 - Valentina Faria Lima</sub> 
-  <img src="../../static/img/persona-valentina.png" width="100%"/> 
-  <sup>Fonte: Material produzido pelos autores (2025)</sup> 
+<p style={{textAlign: 'center'}}>Figura 2 - Valentina Faria de Lima</p>
+<div style={{margin: 25}}>
+    <div style={{textAlign: 'center'}}>
+        <img src={require("../../../../static/img/persona-valentina.png").default} style={{width: 800}} alt="Persona Valentina Faria de Lima" />
+        <br />
+    </div>
 </div>
+<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
 &emsp;Valentina Faria de Lima é uma jovem de 20 anos imersa no universo da publicidade e propaganda e nas descobertas típicas de sua idade, incluindo um _"situationship"_. Nesse cenário de experimentação e vida social agitada, os _vapes_, que inicialmente eram um acessório em festas, gradualmente se integraram à sua rotina, mesmo com a consciência das implicações para sua saúde. Recentemente, Valentina tomou conhecimento da existência de pontos específicos onde poderia descartar seus _vapes_ usados de forma mais adequada. 
 
@@ -43,11 +49,14 @@ sidebar_position: 1
 
 ## Persona 3: Carlos Macedo Pontes
 
-<div align="center"> 
-  <sub>Figura 2 - Carlos Macedo Pontes</sub> 
-  <img src="../../static/img/persona-carlos.png" width="100%"/> 
-  <sup>Fonte: Material produzido pelos autores (2025)</sup> 
+<p style={{textAlign: 'center'}}>Figura 3 - Carlos Macedo Pontes</p>
+<div style={{margin: 25}}>
+    <div style={{textAlign: 'center'}}>
+        <img src={require("../../../../static/img/persona-carlos.png").default} style={{width: 800}} alt="Persona Carlos Macedo Pontes" />
+        <br />
+    </div>
 </div>
+<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
 &emsp;Aos 49 anos, casado e com um filho, Carlos Macedo Pontes dedica sua carreira à gestão de uma organização focada na coleta e reaproveitamento de resíduos eletroeletrônicos, sempre com o objetivo de garantir a manutenção e o crescimento sustentável de sua entidade. Sua interface com a problemática dos _vapes_ surgiu de uma oportunidade estratégica: um edital liberado pela Receita Federal. Carlos vislumbrou nesse edital não apenas uma forma de expandir o escopo de atuação de sua organização para incluir também o descarte de _vapes_, mas também uma chance de estabelecer uma importante conexão institucional com a Receita. 
 
