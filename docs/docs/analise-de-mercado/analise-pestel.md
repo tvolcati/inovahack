@@ -124,32 +124,32 @@ sidebar_position: 2
 
 ## Referências:
 
-Receita Federal - Notícias sobre apreensão de cigarros eletrônicos. Disponível em: <https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2023/junho/receita-federal-apreende-mais-de-2-milhoes-de-cigarros-eletronicos-no-brasil>
+Receita Federal - Notícias sobre apreensão de cigarros eletrônicos. Disponível em: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2023/junho/receita-federal-apreende-mais-de-2-milhoes-de-cigarros-eletronicos-no-brasil
 
-Portaria RFB nº 310/2019. Disponível em: <https://www.in.gov.br/web/dou/-/portaria-n-310-de-6-de-junho-de-2019-170472265>
+Portaria RFB nº 310/2019. Disponível em: https://www.in.gov.br/web/dou/-/portaria-n-310-de-6-de-junho-de-2019-170472265
 
-Plano Nacional de Enfrentamento às Arboviroses 2024-2027. Disponível em: <https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/plano-nacional-de-enfrentamento-as-arboviroses>
+Plano Nacional de Enfrentamento às Arboviroses 2024-2027. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/plano-nacional-de-enfrentamento-as-arboviroses
 
-Relatórios de Gestão do Ministério da Saúde. Disponível em: <https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/relatorios-de-gestao>
+Relatórios de Gestão do Ministério da Saúde. Disponível em: https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/relatorios-de-gestao
 
-ANVISA - Proibição de Cigarros Eletrônicos. Disponível em: <https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-mantem-proibicao-de-cigarros-eletronicos-no-brasil>
+ANVISA - Proibição de Cigarros Eletrônicos. Disponível em: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-mantem-proibicao-de-cigarros-eletronicos-no-brasil
 
-Pesquisa de Orçamentos Familiares - IBGE. Disponível em: <https://biblioteca.ibge.gov.br/visualizacao/livros/liv101677.pdf>
+Pesquisa de Orçamentos Familiares - IBGE. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv101677.pdf
 
-Painel de Arboviroses - Ministério da Saúde. Disponível em: <https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/painel-de-arboviroses>
+Painel de Arboviroses - Ministério da Saúde. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/painel-de-arboviroses
 
-Panorama dos Resíduos Sólidos no Brasil 2023 - ABRELPE. Disponível em: <https://abrelpe.org.br/publicacao/panorama-dos-residuos-solidos-no-brasil-2023/>
+Panorama dos Resíduos Sólidos no Brasil 2023 - ABRELPE. Disponível em: https://abrelpe.org.br/publicacao/panorama-dos-residuos-solidos-no-brasil-2023/
 
-Lei nº 12.305/2010. Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm>
+Lei nº 12.305/2010. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm
 
-IPEA - Impacto Socioeconômico da Dengue. Disponível em: <https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=39317>
+IPEA - Impacto Socioeconômico da Dengue. Disponível em: https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=39317
 
-Datafolha - Pesquisa sobre dengue. Disponível em: <https://datafolha.folha.uol.com.br/opiniaopublica/2024/04/78-dos-brasileiros-consideram-dengue-uma-ameaca-seria.shtml>
+Datafolha - Pesquisa sobre dengue. Disponível em: https://datafolha.folha.uol.com.br/opiniaopublica/2024/04/78-dos-brasileiros-consideram-dengue-uma-ameaca-seria.shtml
 
-OPAS/OMS - Riscos dos cigarros eletrônicos. Disponível em: <https://www.paho.org/pt/noticias/25-5-2022-cigarrros-eletronicos-riscos-saude>
+OPAS/OMS - Riscos dos cigarros eletrônicos. Disponível em: https://www.paho.org/pt/noticias/25-5-2022-cigarrros-eletronicos-riscos-saude
 
-Global E-Waste Monitor 2024 - ONU. Disponível em:<https://globalewaste.org>
+Global E-Waste Monitor 2024 - ONU. Disponível em:https://globalewaste.org
 
-Instituto Nacional de Pesquisas da Amazônia (INPA) - Pesquisa sobre repelentes naturais. Disponível em: <https://portal.inpa.gov.br/noticias/inpa-desenvolve-repelente-natural-contra-o-aedes-aegypti>
+Instituto Nacional de Pesquisas da Amazônia (INPA) - Pesquisa sobre repelentes naturais. Disponível em: https://portal.inpa.gov.br/noticias/inpa-desenvolve-repelente-natural-contra-o-aedes-aegypti
 
-ABNT - Normas técnicas para bateria. Disponível em: <https://www.abntcatalogo.com.br/norma.aspx?ID=386969>
+ABNT - Normas técnicas para bateria. Disponível em: https://www.abntcatalogo.com.br/norma.aspx?ID=386969
