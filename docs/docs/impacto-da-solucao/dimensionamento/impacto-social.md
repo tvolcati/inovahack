@@ -16,7 +16,7 @@ sidebar_position: 2
 
 - Linha de Base: Estabeleceu-se a incidência e o número de hospitalizações por arboviroses em áreas geográficas prioritárias, utilizando dados recentes do Ministério da Saúde  e identificando regiões de maior vulnerabilidade com base em indicadores socioeconômicos e ambientais.   
 - Eficácia Protetora: Estimou-se a eficácia dos "_vaporaids_" em reduzir a exposição a picadas de mosquitos em ambientes domésticos. Esta estimativa foi baseada na literatura científica sobre a eficácia de repelentes ambientais contendo piretróides ou outros ativos validados, que indicam capacidade de afastar mosquitos. Uma redução percentual na taxa de picadas em ambientes tratados foi assumida.   
-- Cenários de Adoção: Definu-se cenários realistas de adoção da tecnologia pela população nas áreas-alvo (por exemplo, 30%, 50% e 70% das residências utilizando "_vaporaids_" de forma consistente durante os períodos de maior atividade vetorial).
+- Cenários de Adoção: Definiu-se cenários realistas de adoção da tecnologia pela população nas áreas-alvo.
 - Cálculo da Redução: Aplicou-se a eficácia protetora estimada aos diferentes cenários de adoção sobre a linha de base de incidência e hospitalizações para projetar a redução no número de casos e internações.
 
 ### Projeções de Curto Prazo (1-2 anos)
