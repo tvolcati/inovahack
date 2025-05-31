@@ -422,15 +422,31 @@ export default function VaporaidLandingPage() {
           <section id="sobre" className="py-16 px-4 bg-[#fffaf2]">
             <div className="container mx-auto">
               <div className="text-center mb-12">
-                <h2 className="text-3xl font-bold text-[#0f1f2a] mb-4">
-                  O Desafio e a Solução Vaporaid
-                </h2>
+                <div className="inline-flex items-center justify-center gap-4">
+                  <Image
+                    src="mosquito.png"
+                    alt="Mosquito"
+                    width={70}
+                    height={70}
+                  />
+                  <h2 className="text-3xl font-bold text-[#0f1f2a]">
+                    O Desafio e a Solução Vaporaid
+                  </h2>
+
+                  <Image
+                    src="vape.png"
+                    alt="Mosquito"
+                    width={30}
+                    height={30}
+                  />
+                </div>
                 <p className="text-[#8d8c8c] max-w-2xl mx-auto">
                   Enfrentamos dois grandes problemas: o descarte inadequado de
                   cigarros eletrônicos e a persistência de doenças transmitidas
                   por mosquitos. O Vaporaid surge como uma resposta inovadora.
                 </p>
               </div>
+
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
                   <Image
@@ -477,7 +493,7 @@ export default function VaporaidLandingPage() {
                         <strong className="text-[#0f1f2a]">
                           Distribuição Gratuita:
                         </strong>{" "}
-                        Dispositivo distribuido em postos de saúde e
+                        Dispositivo distribuído em postos de saúde e
                         prefeituras.
                       </span>
                     </li>
@@ -488,13 +504,24 @@ export default function VaporaidLandingPage() {
           </section>
 
           {/* Seção de Pontos de Coleta */}
-          <section id="coleta" className="py-16 px-4 bg-[#dfdad3]">
-            <div className="container mx-auto">
+          <section id="coleta" className="relative py-16 px-4 overflow-hidden">
+            {/* Imagem de fundo */}
+            <img
+              src="fundo_bonitinho.png"
+              alt="Pontos de coleta"
+              className="absolute inset-0 w-full h-full object-cover"
+            />
+
+            {/* Camada azul clara com baixa opacidade */}
+            <div className="absolute inset-0 bg-[#0F1F2A]/85" />
+
+            {/* Conteúdo */}
+            <div className="relative z-10 container mx-auto">
               <div className="text-center mb-12">
-                <h2 className="text-3xl font-bold text-[#0f1f2a] mb-4">
+                <h2 className="text-3xl font-bold text-white mb-4">
                   Pontos de Coleta
                 </h2>
-                <p className="text-[#8d8c8c] max-w-2xl mx-auto">
+                <p className="text-white/90 max-w-2xl mx-auto">
                   Encontre o ponto de coleta mais próximo de você e contribua
                   para um futuro mais sustentável.
                 </p>
@@ -647,21 +674,30 @@ export default function VaporaidLandingPage() {
           </section>
 
           {/* Ciclo de Vida e Sustentabilidade */}
-          <section className="bg-[#bab9b9] py-16 px-4">
-            <div className="container mx-auto">
-              {/* Título centralizado acima de tudo */}
-              <div className="text-center mb-12">
-                <h2 className="text-3xl font-bold text-[#0f1f2a] mb-4">
+          <section className="relative py-16 px-4">
+            {/* Imagem de fundo */}
+            <img
+              src="fundo2.png"
+              alt="Fundo Ciclo de Vida"
+              className="absolute inset-0 w-full h-full object-cover"
+            />
+
+            <div className="container mx-auto relative z-10">
+              {/* Mosquito à esquerda */}
+
+              {/* Texto centralizado */}
+              <div className="text-center max-w-2xl mx-auto mb-12">
+                <h2 className="text-3xl font-bold text-[#0f1f2a] mb-2">
                   Ciclo de Vida Sustentável
                 </h2>
-                <p className="text-[#8d8c8c] max-w-2xl mx-auto">
+                <p className="text-[#4b4b4b]">
                   O Vaporaid é pensado para um ciclo completo, da produção ao
                   descarte consciente e recondicionamento.
                 </p>
               </div>
 
               {/* Container principal com as duas divs lado a lado */}
-              <div className="flex items-center justify-center gap-8">
+              <div className="flex flex-col lg:flex-row items-center justify-center gap-8">
                 {/* Div dos Cards */}
                 <div className="flex flex-col">
                   <div className="grid grid-cols-1 gap-8">
@@ -710,20 +746,18 @@ export default function VaporaidLandingPage() {
                 </div>
 
                 {/* Div da Imagem */}
-                <div>
-                  <div className="text-center">
-                    <Image
-                      src="/placeholder.svg?width=600&height=300"
-                      alt="Diagrama do ciclo de vida do Vaporaid"
-                      width={600}
-                      height={300}
-                      className="rounded-lg shadow-lg mx-auto border border-[#dfdad3]"
-                    />
-                    <p className="text-[#8d8c8c] mt-4 text-sm">
-                      Campanhas de conscientização educam sobre o descarte
-                      correto e a importância da devolução.
-                    </p>
-                  </div>
+                <div className="text-center">
+                  <Image
+                    src="/placeholder.svg?width=600&height=300"
+                    alt="Diagrama do ciclo de vida do Vaporaid"
+                    width={600}
+                    height={300}
+                    className="rounded-lg shadow-lg mx-auto border border-[#dfdad3]"
+                  />
+                  <p className="text-[#4b4b4b] mt-4 text-sm">
+                    Campanhas de conscientização educam sobre o descarte correto
+                    e a importância da devolução.
+                  </p>
                 </div>
               </div>
             </div>
@@ -746,11 +780,11 @@ export default function VaporaidLandingPage() {
                 {missionVisionValuesData.map((item) => (
                   <Card
                     key={item.title}
-                    className="min-h-[300px] md:min-h-[320px] flex flex-col justify-center items-center text-center p-6 md:p-8 bg-[#fffaf2] border-[#dfdad3]"
+                    className="min-h-[320px] flex flex-col justify-start items-center text-center p-6 md:p-8 bg-[#fffaf2] border-[#dfdad3]"
                   >
-                    <CardHeader className="items-center">
+                    <CardHeader className="flex flex-col items-center mb-4">
                       {item.icon}
-                      <CardTitle className="text-2xl text-[#0f1f2a]">
+                      <CardTitle className="text-2xl text-[#0f1f2a] mt-2">
                         {item.title}
                       </CardTitle>
                     </CardHeader>
