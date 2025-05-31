@@ -450,7 +450,7 @@ export default function VaporaidLandingPage() {
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
                   <Image
-                    src="/placeholder.svg?width=500&height=350"
+                    src="exemplo.png"
                     alt="Ilustração do problema: vapes descartados e mosquito"
                     width={500}
                     height={350}
