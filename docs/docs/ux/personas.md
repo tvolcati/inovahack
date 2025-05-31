@@ -41,7 +41,7 @@ sidebar_position: 1
 </div>
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
-&emsp;Valentina Faria de Lima é uma jovem de 20 anos imersa no universo da publicidade e propaganda e nas descobertas típicas de sua idade, incluindo um _"situationship"_. Nesse cenário de experimentação e vida social agitada, os _vapes_, que inicialmente eram um acessório em festas, gradualmente se integraram à sua rotina, mesmo com a consciência das implicações para sua saúde. Recentemente, Valentina tomou conhecimento da existência de pontos específicos onde poderia descartar seus _vapes_ usados de forma mais adequada. 
+&emsp;Valentina Faria de Lima é uma jovem de 20 anos imersa no universo da publicidade e propaganda e nas descobertas típicas de sua idade, incluindo um _"situationship"_. Nesse cenário de experimentação e vida social agitada, os _vapes_ e _pods_, que inicialmente eram um acessório em festas, gradualmente se integraram à sua rotina, mesmo com a consciência das implicações para sua saúde. Recentemente, Valentina tomou conhecimento da existência de pontos específicos onde poderia descartar tanto os _vapes_, quanto os _pods_ usados, de forma mais adequada. 
 
 &emsp;No entanto, essa informação ainda disputa espaço com a força do hábito e a influência social. Suas decisões sobre o descarte são, em grande parte, motivadas pela conveniência e pelo comportamento de seu grupo de amigos, tendendo a optar pelo que é mais fácil ou comum entre eles. O principal desafio para uma mudança de atitude reside no seu desconhecimento sobre os componentes perigosos dos _vapes_ e a maneira correta de manejá-los como resíduo. 
 
