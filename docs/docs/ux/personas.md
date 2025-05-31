@@ -69,4 +69,4 @@ sidebar_position: 1
 
 **Referências:**
 
-Cooper, A. (2004). The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Sams Publishing. (Alan Cooper é amplamente reconhecido por popularizar o uso de personas no design de software).
+Cooper, A. (2004). The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Sams Publishing. 
