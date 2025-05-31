@@ -63,7 +63,7 @@ O Vaporaid, ao propor o recondicionamento e a reutilização de componentes chav
 
 ---
 
-**Fontes consultadas:**
+**Referências:**
 
 IBGE, Síntese de Indicadores Sociais 2023: https://www.ibge.gov.br/estatisticas/sociais/populacao/9221-sintese-de-indicadores-sociais.html
 
