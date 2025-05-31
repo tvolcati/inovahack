@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Mapeamento do Problema
 
-&emsp;O projeto Vaporaid visa enfrentar uma crítica interseção de desafios: a vulnerabilidade social e sanitária de comunidades marginalizadas no combate às arboviroses e, secundariamente, a crescente questão do descarte de resíduos eletrônicos. A democratização do acesso a meios eficazes de proteção contra o *Aedes aegypti* é o pilar central desta iniciativa.
+&emsp;O projeto Vaporaid visa enfrentar uma crítica interseção de desafios: a vulnerabilidade social e sanitária de comunidades marginalizadas no combate às arboviroses e, secundariamente, a crescente questão que vem crescendo em relevância de como descartar os altos volumes de _vapes_ e _pods_ apreendidos. A democratização do acesso a meios eficazes de proteção contra o *Aedes aegypti* é o pilar central desta iniciativa.
 
 ---
 
@@ -16,7 +16,9 @@ sidebar_position: 1
 &emsp;A incidência e o impacto dessas doenças não atingem a população de maneira uniforme. Comunidades socioeconomicamente desfavorecidas, localizadas em periferias urbanas, áreas rurais isoladas, favelas, palafitas e assentamentos irregulares, carregam o fardo mais pesado dessas doenças.
 
 * **Impacto das Arboviroses a Nível Nacional**
-   * O Brasil vivenciou em 2024 uma epidemia de dengue de proporções alarmantes. Até a Semana Epidemiológica (SE) 26, foram notificados 6.215.201 casos prováveis da doença, o que representa uma taxa de incidência de 3.060,7 casos por 100.000 habitantes. Este número é 344,5% superior ao registrado no mesmo período de 2023, evidenciando uma escalada preocupante da transmissão. Tragicamente, 4.269 óbitos por dengue foram confirmados até essa data, com uma taxa de letalidade entre os casos graves (dengue com sinais de alarme e dengue grave) de 5,1%. A situação da chikungunya também inspira cuidados, com 233.225 casos prováveis (incidência de 114,9 casos/100.000 habitantes) e 134 mortes confirmadas até a SE 26 de 2024. Já os casos prováveis de Zika totalizaram 8.519 (incidência de 4,2 casos/100.000 habitantes) até a SE 23 de 2024, com 764 gestantes entre os casos notificados, um dado particularmente sensível devido à associação do vírus com a microcefalia e outras malformações congênitas.  
+   * O Brasil vivenciou em 2024 uma epidemia de dengue de proporções alarmantes. Até a Semana Epidemiológica (SE) 26, foram notificados 6.215.201 casos prováveis da doença, o que representa uma taxa de incidência de 3.060,7 casos por 100.000 habitantes. Este número é 344,5% superior ao registrado no mesmo período de 2023, evidenciando uma escalada preocupante da transmissão. Tragicamente, 4.269 óbitos por dengue foram confirmados até essa data, com uma taxa de letalidade entre os casos graves (dengue com sinais de alarme e dengue grave) de 5,1%. 
+   
+   * A situação da chikungunya também inspira cuidados, com 233.225 casos prováveis (incidência de 114,9 casos/100.000 habitantes) e 134 mortes confirmadas até a SE 26 de 2024. Já os casos prováveis de Zika totalizaram 8.519 (incidência de 4,2 casos/100.000 habitantes) até a SE 23 de 2024, com 764 gestantes entre os casos notificados, um dado particularmente sensível devido à associação do vírus com a microcefalia e outras malformações congênitas.  
 
    * As projeções para os anos subsequentes não são otimistas. Dados preliminares de 2025 já indicam que o país pode enfrentar um cenário ainda mais grave. No estado de São Paulo, por exemplo, o número de casos suspeitos de dengue nas primeiras quatro semanas de 2025 já era 50% superior ao registrado no mesmo período de 2024, um ano que, por si só, já havia batido recordes históricos
 
