@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
 }
 
 @layer utilities {
@@ -11,6 +11,14 @@ body {
     text-wrap: balance;
   }
 }
+
+@font-face {
+  font-family: 'ChunkFiveEx';
+  font-weight: bold;
+  src: url('/fonts/ChunkfiveEx.ttf') format('truetype');
+  font-style: normal;
+}
+
 
 @layer base {
   :root {
