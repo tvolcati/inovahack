@@ -11,7 +11,7 @@ sidebar_position: 1
 ## Descrição Geral da Solução
 &emsp;O princípio de funcionamento do Vaporaid baseia-se na vaporização controlada de repelentes líquidos por meio do aquecimento proporcionado por um atomizador. Este é ativado por um botão manual, permitindo ao usuário ligar o dispositivo sempre que necessário. A essência repelente, aprovada pela ANVISA, evapora e se dispersa no ambiente, criando uma barreira química que afasta os mosquitos vetores (Ministério da Saúde, 2024).
 
-&emsp; O dispositivo é composto majoritariamente por componentes reaproveitados do cigarro eletrônico: o atomizador e a bateria de lítio de 3,7V, elementos presentes nos chamados pods dos vapes. Outros componentes, como o case externo, o algodão do atomizador - parte que guarda a nicotina -  e placas de circuito com sensor de pressão, são descartados ou substituídos. A estrutura final do Vaporaid inclui peças simples como fios, botão, resistores e transistores, compondo um sistema eficiente, seguro e de baixo custo (FIOCRUZ, 2021).
+&emsp; O dispositivo é composto majoritariamente por componentes reaproveitados do cigarro eletrônico: o atomizador e a bateria de lítio de 3,7V, elementos presentes nos chamados pods dos vapes. Outros componentes, como o case externo, o algodão do atomizador - parte que guarda a nicotina -  e placas de circuito com sensor de pressão, são descartados ou substituídos. A estrutura final do Vaporaid inclui peças simples como fios, botão e resistores, compondo um sistema eficiente, seguro e de baixo custo (FIOCRUZ, 2021).
 
 &emsp; Como o dispositivo não é recarregável, ele entra em um sistema de logística reversa, no qual, após o esgotamento da bateria, o equipamento pode ser devolvido em pontos de coleta para reaproveitamento ou troca.
 
