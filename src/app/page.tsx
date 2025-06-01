@@ -15,12 +15,11 @@ import {
   Leaf,
   Users,
   Lightbulb,
-  PackageOpen,
   ChevronLeft,
   ChevronRight,
   Clock,
   ChevronDown,
-  Package,
+  PackageOpen,
 } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
@@ -381,14 +380,10 @@ export default function VaporaidLandingPage() {
                   <Button
                     onClick={scrollToContent}
                     size="lg"
-                    className="bg-[#3f8ec9] text-[#fffaf2] border-[#3f8ec9] hover:bg-[#2d7bb8] hover:border-[#2d7bb8] transition-colors flex items-center gap-4 px-6 py-8 rounded-md text-lg md:text-xl text-left leading-tight"
+                    className="bg-[#3f8ec9] text-[#fffaf2] font-semibold border-[#3f8ec9] hover:bg-[#2d7bb8] hover:border-[#2d7bb8] transition-colors flex items-center gap-4 px-6 py-8 rounded-md text-lg md:text-xl text-left leading-tight"
                   >
-                    <Package className="h-20 w-20" />
-                    <span>
-                      Quero ver pontos
-                      <br />
-                      de distribuição
-                    </span>
+                    <PackageOpen className="w-48 h-48 shrink-0" />
+                    <span>Quero ver pontos de distribuição</span>
                   </Button>
                 </div>
               </div>
@@ -433,12 +428,7 @@ export default function VaporaidLandingPage() {
                     O Desafio e a Solução Vaporaid
                   </h2>
 
-                  <Image
-                    src="vape.png"
-                    alt="Mosquito"
-                    width={30}
-                    height={30}
-                  />
+                  <Image src="vape.png" alt="Mosquito" width={30} height={30} />
                 </div>
                 <p className="text-[#8d8c8c] max-w-2xl mx-auto">
                   Enfrentamos dois grandes problemas: o descarte inadequado de
@@ -732,13 +722,14 @@ export default function VaporaidLandingPage() {
                     <Card className="bg-[#fffaf2] border-[#dfdad3]">
                       <CardHeader>
                         <CardTitle className="text-[#0f1f2a]">
-                          3. Uso e Devolução
+                          3. Proteção em Ação
                         </CardTitle>
                       </CardHeader>
                       <CardContent>
                         <p className="text-[#8d8c8c]">
-                          Após seu uso, por completo, o Vaporaid é devolvido
-                          para recondicionamento, fechando o ciclo.
+                          O Vaporaid é utilizado pela comunidade para dispersar
+                          o repelente, protegendo os lares contra o mosquito
+                          transmissor.
                         </p>
                       </CardContent>
                     </Card>
@@ -748,16 +739,12 @@ export default function VaporaidLandingPage() {
                 {/* Div da Imagem */}
                 <div className="text-center">
                   <Image
-                    src="/placeholder.svg?width=600&height=300"
+                    src="/reciclagem.jpeg"
                     alt="Diagrama do ciclo de vida do Vaporaid"
                     width={600}
                     height={300}
                     className="rounded-lg shadow-lg mx-auto border border-[#dfdad3]"
                   />
-                  <p className="text-[#4b4b4b] mt-4 text-sm">
-                    Campanhas de conscientização educam sobre o descarte correto
-                    e a importância da devolução.
-                  </p>
                 </div>
               </div>
             </div>
@@ -830,7 +817,13 @@ export default function VaporaidLandingPage() {
               href="#"
               className="flex items-center justify-center gap-2 mb-2"
             >
-              <Recycle className="h-7 w-7 text-[#b13537]" />
+              <Image
+                src="/vape_logo.png"
+                alt=""
+                width={40}
+                height={40}
+                className=""
+              />{" "}
               <span className="text-xl font-bold text-[#fffaf2]">Vaporaid</span>
             </Link>
             <p className="text-sm">Transformando resíduos em bem-estar.</p>
