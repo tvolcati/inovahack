@@ -13,14 +13,27 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 
 
 
-## Cabeçalho (Header)
+## Seção de Boas Vindas
 
-&emsp;Esta é a primeira seção visualizada ao acessar o site. Nela, está presente o nome do projeto "Vaporaid" e um botão de "Entrar em Contato", que abre um modal com formulário.
+&emsp;Esta é a primeira seção visualizada ao acessar o site. Onde a principal imagem mostra o *slogan* do projeto e um botão de "Quero ver pontos de distribuição", que leva o usuário até a lista de pontos de coleta.
 
-<p style={{textAlign: 'center'}}>Figura 1 - Cabeçalho da Página</p>
+<p style={{textAlign: 'center'}}>Figura 1 - Seção de Boas Vindas</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <!-- <img src={require("../../static/img/persona-maria.png").default} style={{width: 800}} alt="Cabeçalho da Página" /> -->
+        <img src={require("../../static/img/site/page1.png").default} style={{width: 800}} alt="Seção de boas vindas" />
+        <br />
+    </div>
+</div>
+<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+
+## Nossa Solução
+
+&emsp;Esta é seção onde abordarmos nosso problema é como nossa solução ataca a problemática. 
+
+<p style={{textAlign: 'center'}}>Figura 2 - Nossa Solução</p>
+<div style={{margin: 25}}>
+    <div style={{textAlign: 'center'}}>
+        <img src={require("../../static/img/site/page2.png").default} style={{width: 800}} alt="Nossa Solução" />
         <br />
     </div>
 </div>
@@ -29,41 +42,21 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 
 ## Lista de Pontos de Coleta
 
-&emsp;Com base nos filtros escolhidos, como Estado, cidade e bairro, o site exibe uma lista de pontos de coleta, cada um com:
+&emsp;Esta é a seção onde com base nos filtros escolhidos, como Estado, cidade e bairro, o site exibe uma lista de pontos de coleta, cada um com:
 
 * Nome do local
 * Endereço completo
 * Horário de funcionamento
 * Botão para visualizar no mapa
 
-<p style={{textAlign: 'center'}}>Figura 2 - Pontos de Coleta</p>
+<p style={{textAlign: 'center'}}>Figura 3 - Pontos de Coleta</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <!-- <img src={require("../../static/img/persona-maria.png").default} style={{width: 800}} alt="Pontos de Coleta" /> -->
+        <img src={require("../../static/img/site/page3.png").default} style={{width: 800}} alt="Pontos de Coleta" />
         <br />
     </div>
 </div>
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
-
-
-
-## Modal de Contato
-
-A&emsp;o clicar no botão "Entrar em Contato", o usuário acessa um modal com formulário para:
-
-* Sugerir novos pontos de coleta
-* Enviar dúvidas ou propostas
-* Estabelecer parcerias
-
-<p style={{textAlign: 'center'}}>Figura 3 - Modal de Contato</p>
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <!-- <img src={require("../../static/img/persona-maria.png").default} style={{width: 800}} alt="Modal de Contato" /> -->
-        <br />
-    </div>
-</div>
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
-
 
 
 ## Ciclo de Vida Sustentável
@@ -79,13 +72,11 @@ A&emsp;o clicar no botão "Entrar em Contato", o usuário acessa um modal com fo
 <p style={{textAlign: 'center'}}>Figura 4 - Ciclo de Vida Vaporaid</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <!-- <img src={require("../../static/img/persona-maria.png").default} style={{width: 800}} alt="Ciclo de Vida Vaporaid" /> -->
+        <img src={require("../../static/img/site/page4.png").default} style={{width: 800}} alt="Ciclo de Vida Vaporaid" />
         <br />
     </div>
 </div>
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
-
-
 
 ## Nossos Pilares
 
@@ -94,12 +85,29 @@ A&emsp;o clicar no botão "Entrar em Contato", o usuário acessa um modal com fo
 <p style={{textAlign: 'center'}}>Figura 5 - Pilares Vaporaid</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <!-- <img src={require("../../static/img/persona-maria.png").default} style={{width: 800}} alt="Pilares Vaporaid" /> -->
+        <img src={require("../../static/img/site/page5.png").default} style={{width: 800}} alt="Pilares Vaporaid" />
         <br />
     </div>
 </div>
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
+
+## Modal de Contato
+
+&emsp;Ao clicar no botão "Entrar em Contato", o usuário acessa um modal com formulário para:
+
+* Sugerir novos pontos de coleta
+* Enviar dúvidas ou propostas
+* Estabelecer parcerias
+
+<p style={{textAlign: 'center'}}>Figura 6 - Modal de Contato</p>
+<div style={{margin: 25}}>
+    <div style={{textAlign: 'center'}}>
+        <img src={require("../../static/img/site/page6.png").default} style={{width: 800}} alt="Modal de Contato" />
+        <br />
+    </div>
+</div>
+<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
 
 ## Conclusão
