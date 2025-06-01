@@ -5,6 +5,7 @@ sidebar_position: 2
 
 # Impacto Ambiental
 
+---
 ## Contribuições Ambientais Positivas
 
 &emsp;Embora o foco principal dos _vaporaids_ seja a proteção da saúde humana, sua implementação em larga escala também levanta considerações ambientais importantes, apresentando tanto desafios quanto oportunidades para uma abordagem mais sustentável no controle vetorial.
@@ -29,6 +30,7 @@ sidebar_position: 2
 
 &emsp;A conscientização gerada em torno do descarte correto dos _vaporaids_ e refis, se bem comunicada, pode servir como um ponto de partida para educar a população sobre a importância da gestão de resíduos em geral, fomentando uma cultura de sustentabilidade mais ampla e duradoura. Finalmente, a redução da exposição humana e ambiental a inseticidas aplicados por pulverização em larga escala pode trazer benefícios de saúde a longo prazo que ainda não são totalmente quantificados, como a diminuição do risco de distúrbios endócrinos ou problemas respiratórios que têm sido associados a alguns desses produtos químicos.
 
+---
 ## Conclusão
 
 &emsp;Do ponto de vista ambiental, a introdução e disseminação dos _vaporaids_ apresentam um panorama de oportunidades e desafios que merecem consideração cuidadosa. A perspectiva de reduzir a dependência de inseticidas químicos de amplo espectro, como as pulverizações espaciais (fumacê), é um dos benefícios ambientais mais promissores. Essa mudança poderia significar uma menor dispersão de substâncias potencialmente nocivas no meio ambiente, com consequente redução do impacto sobre organismos não-alvo, incluindo polinizadores e outros insetos benéficos, além de menor contaminação do solo e de corpos d'água. 
@@ -39,10 +41,11 @@ sidebar_position: 2
 
 ## **Referências:**
 
-Ministério do Meio Ambiente e Mudança do Clima (MMA). Relatório MINARE 2023. Disponível em: https://mma.gov.br/minare  
+Ministério do Meio Ambiente e Mudança do Clima (MMA). (2023). Relatório de Gestão 2023. Brasília: MMA. Disponível em: https://dados.mma.gov.br/dataset/planejamento-estrategico
 
-CETESB. Manual de Gerenciamento de Resíduos de Baterias e Acumuladores. São Paulo, 2023.  
+Companhia Ambiental do Estado de São Paulo (CETESB). (2023). Publicações, Relatórios, Guias e Manuais. São Paulo: CETESB. Disponível em: https://cetesb.sp.gov.br/publicacoes-relatorios/
 
-Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (Abrelpe). Panorama dos Resíduos Sólidos no Brasil 2023. São Paulo, 2023.  
+Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (Abrelpe). (2023). Panorama dos Resíduos Sólidos no Brasil 2023. São Paulo: Abrelpe. Disponível em: https://abrelpe.org.br/noticias_releases_detalhe.cfm?NotReleasesID=958
 
-Global E-Waste Monitor 2023. United Nations University (UNU) & International Telecommunication Union (ITU). Disponível em: https://ewastemonitor.info/ 
+United Nations University (UNU) & International Telecommunication Union (ITU). (2024). The Global E-Waste Monitor 2024. Disponível em: https://ewastemonitor.info/the-global-e-waste-monitor-2024/
+

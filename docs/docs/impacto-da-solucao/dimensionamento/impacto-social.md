@@ -8,6 +8,7 @@ sidebar_position: 2
 
 &emsp;A introdução e disseminação de vaporizadores de repelente acessíveis (_vaporaids_) em áreas críticas do Brasil têm o potencial de gerar impactos significativos e multifacetados, que vão desde a redução direta da carga de doenças transmitidas por mosquitos até benefícios econômicos, sociais e ambientais. A quantificação desses impactos, mesmo que baseada em projeções e cenários, é crucial para dimensionar a relevância da intervenção e subsidiar a tomada de decisões.
 
+---
 ## Impacto na Saúde
 
 &emsp;O impacto mais direto e esperado da adoção generalizada de _vaporaids_ é a redução da incidência de dengue, Zika, chikungunya e outras arboviroses, e, consequentemente, a diminuição do número de hospitalizações e óbitos. A magnitude desse impacto dependerá de diversos fatores, incluindo a eficácia intrínseca dos dispositivos e dos ingredientes ativos utilizados, a taxa de adoção pela população nas áreas-alvo, a consistência e correção do uso, e as características epidemiológicas e ambientais locais. Modelos epidemiológicos baseados na eficácia de repelentes ambientais de liberação contínua em espaços fechados sugerem um potencial de redução da taxa de ataque domiciliar do Aedes aegypti em até *60-75%* em áreas com alta adesão ao uso do Vaporaid.
@@ -20,13 +21,16 @@ sidebar_position: 2
 - Cenários de Adoção: Definiu-se cenários realistas de adoção da tecnologia pela população nas áreas-alvo.
 - Cálculo da Redução: Aplicou-se a eficácia protetora estimada aos diferentes cenários de adoção sobre a linha de base de incidência e hospitalizações para projetar a redução no número de casos e internações.
 
+
 ### Projeções de Curto Prazo (1-2 anos)
 
 &emsp;No curto prazo, a estratégia de implementação dos _vaporaids_ provavelmente se concentraria em áreas que enfrentam surtos agudos de arboviroses e naquelas com histórico de alta vulnerabilidade. O impacto inicial esperado seria uma contribuição para a redução dos picos epidêmicos, diminuindo a pressão sobre os serviços de saúde durante os períodos de maior transmissão. A distribuição rápida e direcionada poderia mitigar a velocidade de propagação das doenças em comunidades específicas.
 
+
 ### Projeções de Médio Prazo (3-5 anos)
 
 &emsp;Com a expansão da cobertura dos _vaporaids_ para um número maior de municípios e residências, e sua possível incorporação como ferramenta complementar nos programas de controle vetorial, espera-se observar tendências de queda mais sustentadas na incidência das arboviroses. A proteção contínua em nível domiciliar poderia começar a alterar os padrões de transmissão em áreas endêmicas, levando a uma redução da carga basal da doença.
+
 
 ### Projeções de Longo Prazo (5+ anos)
 
@@ -40,6 +44,7 @@ sidebar_position: 2
 
 &emsp;Além disso, o sucesso e a aceitação popular de uma nova tecnologia preventiva como os _vaporaids_ poderiam criar um ambiente mais receptivo para a introdução e adoção de outras ferramentas e estratégias inovadoras de controle de doenças no futuro, fortalecendo a capacidade de resposta da saúde pública brasileira.
 
+---
 ## Impacto Econômico
 
 &emsp;A redução da incidência e das hospitalizações por arboviroses, proporcionada pela ampla adoção de _vaporaids_, traduzir-se-ia diretamente em uma significativa economia de custos para o sistema de saúde e para as famílias brasileiras. As projeções de impacto econômico podem ser derivadas da redução estimada de casos, utilizando dados sobre os custos associados ao tratamento dessas doenças.
@@ -51,13 +56,16 @@ sidebar_position: 2
 - Cálculo da Economia Direta: Multiplicar a redução projetada no número de casos ambulatoriais e hospitalizações (obtida nas projeções de impacto na saúde, item 4.1) pelo custo médio correspondente a cada evento evitado.
 - Consideração dos Custos Indiretos: Estimar a economia gerada pela redução de custos indiretos, como o aumento da produtividade devido à diminuição do absenteísmo no trabalho e na escola , e a redução dos gastos diretos das famílias com medicamentos sintomáticos, transporte para unidades de saúde e outras despesas relacionadas à doença.   
 
+
 ### Projeções de Curto Prazo
 
 &emsp;No curto prazo, a principal economia viria da redução do número de atendimentos de emergência e internações hospitalares durante os períodos de surto. Menos casos graves significam menor necessidade de leitos de UTI, medicamentos de alto custo e procedimentos complexos, aliviando a pressão imediata sobre os orçamentos de saúde.
 
+
 ### Projeções de Médio Prazo
 
 &emsp;À medida que a incidência das arboviroses diminuir de forma mais consistente, espera-se uma redução nos orçamentos anuais que os municípios, estados e o governo federal alocam especificamente para o manejo dessas doenças. Esses recursos, antes consumidos pelo tratamento e controle de epidemias, poderiam ser liberados e redirecionados para outras prioridades de saúde pública, como programas de prevenção de doenças crônicas, melhoria da infraestrutura da atenção primária ou expansão da cobertura vacinal para outras patologias.
+
 
 ### Projeções de Longo Prazo
 
@@ -69,9 +77,11 @@ sidebar_position: 2
 
 &emsp;Adicionalmente, se o Brasil conseguir demonstrar um modelo custo-efetivo de prevenção de arboviroses utilizando _vaporaids_ acessíveis, essa experiência poderia inspirar outros países tropicais e subtropicais que enfrentam desafios semelhantes. Isso poderia, inclusive, abrir mercados para tecnologias e conhecimentos desenvolvidos no Brasil, caso a produção dos _vaporaids_ e seus insumos seja fomentada nacionalmente.   
 
+---
 ## Transformações Sociais Positivas
 
 &emsp;A implementação bem-sucedida de _vaporaids_ acessíveis transcende a simples prevenção de doenças, podendo catalisar uma série de transformações sociais positivas, especialmente em comunidades vulneráveis.
+
 
 ### Melhoria na Qualidade de Vida e Bem-estar
 
@@ -79,9 +89,11 @@ sidebar_position: 2
 
 &emsp;A infecção por Zika e suas consequências, como a microcefalia, também geraram estigma e sentimentos de culpa em muitas mães. A simples redução da presença de mosquitos no ambiente doméstico, proporcionada pelos _vaporaids_, pode levar a uma melhora significativa na qualidade de vida, permitindo noites de sono mais tranquilas, maior conforto dentro de casa e, fundamentalmente, a diminuição do medo e do estresse associados à possibilidade de adoecimento.   
 
+
 ### Mitigando Disparidades de Saúde Ligadas a Doenças Arbovirais
 
 &emsp;Como extensivamente documentado, as arboviroses afetam desproporcionalmente as populações mais pobres e marginalizadas, que vivem em condições de maior exposição ao vetor e com menor acesso a recursos de prevenção e tratamento. Ao tornar a proteção individual mais acessível através de _vaporaids_ de baixo custo, é possível reduzir essa carga desigual da doença. Esta intervenção, portanto, carrega um forte componente de equidade em saúde, pois direciona um benefício tangível àqueles que historicamente mais sofrem com o problema.   
+
 
 ### Mais Oportunidades Econômicas e Educacionais
 
@@ -93,8 +105,7 @@ sidebar_position: 2
 
 &emsp;Além disso, com menos pessoas adoecendo, espera-se uma diminuição na procura por atendimento em postos de saúde e hospitais, liberando recursos e profissionais para outras demandas. Considerando que cada caso de dengue evitado representa uma economia média de R$ 1.400 para o SUS (custo de internação, conforme dados do Ministério da Saúde de 2023), a prevenção de milhares de casos pode gerar uma economia substancial para o sistema público.
 
-
-
+---
 ## Conclusão
 
 &emsp;Socialmente, a diminuição do fardo das doenças pode melhorar a qualidade de vida, reduzir o medo e o estresse nas comunidades, mitigar disparidades em saúde e liberar o potencial humano para a educação e o trabalho.  Contudo, a transformação desse potencial em realidade requer um esforço conjunto e coordenado. Superar as barreiras de custo e acesso, garantir a segurança e eficácia dos produtos, desenvolver sistemas de produção e distribuição que alcancem quem mais precisa são desafios que demandam compromisso político, investimento em pesquisa e inovação, parcerias público-privadas e, fundamentalmente, o engajamento da sociedade civil e das comunidades afetadas.
@@ -105,10 +116,11 @@ sidebar_position: 2
 
 ## **Referências:**
 
-World Health Organization (WHO). (2023). Efficacy of Spatial Repellents in Reducing Vector-Borne Disease Transmission: A Systematic Review and Meta-Analysis. Geneva: WHO Press. Disponível em: https://www.who.int/publications/i/item/9789240068534  
+World Health Organization (WHO). (2013). Guidelines for Efficacy Testing of Spatial Repellents. Geneva: WHO Press. Disponível em: https://iris.who.int/bitstream/handle/10665/78142/9789241505024_eng.pdf
 
-Fundação Oswaldo Cruz (Fiocruz). (2022). Engajamento Comunitário em Programas de Prevenção de Doenças Vetoriais: Lições Aprendidas em Projetos Nacionais. Rio de Janeiro: Fiocruz. Disponível em: https://portal.fiocruz.br/  
+Fundação Oswaldo Cruz (Fiocruz). (2022). Engajamento comunitário e pesquisa em saúde: por uma agenda de pesquisa para o controle da dengue. Rio de Janeiro: Fiocruz. Disponível em: https://www.icict.fiocruz.br/content/engajamento-comunitario-e-pesquisa-em-saude-por-uma-agenda-de-pesquisa-para-o-controle-da
 
-Organização Pan-Americana da Saúde (OPAS). (2022). The Socioeconomic Impact of Arboviral Diseases in Latin America and the Caribbean. Washington, D.C.: PAHO Publications. Disponível em: https://www.paho.org/en/documents/socioeconomic-impact-arboviral-diseases-latin-america-and-caribbean  
+Organização Pan-Americana da Saúde (OPAS). (2020). Economic impact of dengue fever in Latin America and the Caribbean: a systematic review. Washington, D.C.: PAHO Publications. Disponível em: https://iris.paho.org/handle/10665.2/49454
 
-Datafolha. (2023). Pesquisa Nacional sobre Hábitos de Prevenção e Uso de Repelentes em Diferentes Estratos Socioeconômicos. São Paulo. Disponível em: https://datafolha.folha.uol.com.br/ 
+Datafolha. (2023). Pesquisa Fenaprevi/Datafolha mapeia percepção do brasileiro sobre a necessidade de se planejar e proteger para o futuro. São Paulo. Disponível em: https://datafolha.folha.uol.com.br/opiniao-e-sociedade/2023/10/pesquisa-fenaprevidatafolha-mapeia-percepcao-do-brasileiro-sobre-a-necessidade-de-se-planejar-e-proteger-para-o-futuro.shtml
+
