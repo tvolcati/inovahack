@@ -21,7 +21,7 @@ O Vaporaid é composto por um circuito simples, montado a partir de materiais re
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025)</p>
 
 ---
 
@@ -34,7 +34,7 @@ O Vaporaid é composto por um circuito simples, montado a partir de materiais re
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025)</p>
 
 ---
 
@@ -47,7 +47,7 @@ O Vaporaid é composto por um circuito simples, montado a partir de materiais re
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025)</p>
 
 ---
 
@@ -60,7 +60,7 @@ O Vaporaid é composto por um circuito simples, montado a partir de materiais re
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025)</p>
 
 ---
 
@@ -73,7 +73,7 @@ O Vaporaid é composto por um circuito simples, montado a partir de materiais re
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025)</p>
 
 ---
 
@@ -86,7 +86,7 @@ O Vaporaid é composto por um circuito simples, montado a partir de materiais re
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025)</p>
 
 ---
 ## Funcionamento do Circuito
@@ -101,7 +101,7 @@ O acionamento é feito por um botão, que o usuário pressiona manualmente. Uma 
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025)</p>
 
 ---
 ## Fluxo de Funcionamento
@@ -128,7 +128,7 @@ O funcionamento do dispositivo segue o seguinte fluxo:
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}> Fonte: Produizdo pelos autores(2025).</p>
+<p style={{textAlign: 'center'}}> Fonte:  Material produzido pelos autores (2025).</p>
 
 ## Recarregabilidade e Manutenção
 A manutenção do Vaporaid é simples:

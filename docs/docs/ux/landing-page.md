@@ -24,7 +24,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 ## Nossa Solução
 
@@ -37,7 +37,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 
 ## Lista de Pontos de Coleta
@@ -56,7 +56,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 
 ## Ciclo de Vida Sustentável
@@ -76,7 +76,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 ## Nossos Pilares
 
@@ -89,7 +89,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 
 ## Modal de Contato
@@ -107,7 +107,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
         <br />
     </div>
 </div>
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 
 ## Conclusão
