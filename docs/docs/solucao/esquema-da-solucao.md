@@ -135,6 +135,6 @@ A manutenção do Vaporaid é simples:
 
 **Substância repelente:** O algodão embebido pode ser trocado manualmente após o esgotamento da substância.
 
-**Bateria:** A carga da bateria é suficiente para cerca de 30 minutos de uso contínuo. A troca ou recarga da bateria pode ser realizada conforme os ciclos operacionais planejados.
+**Bateria:** A carga da bateria é suficiente para cerca de 30 minutos de uso contínuo. A troca ou recarga da bateria pode ser realizada conforme os ciclos operacionais planejados. Vale salientar que é possível colocar mais de uma bateria em paralelo para aumentar a vida útil do protótipo.
 
 **Case e partes fixas:** Projetadas para reutilização duradoura, podendo ser limpas e reabastecidas periodicamente.
