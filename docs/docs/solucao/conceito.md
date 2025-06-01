@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Conceito Solução
 
-&emsp;Diante dos desafios enfrentados por comunidades vulneráveis no combate às arboviroses, nasce o Vaporaid – uma solução inovadora que une sustentabilidade, acessibilidade e tecnologia para reduzir a exposição da população ao Aedes aegypti e outros vetores urbanos. O Vaporaid é um dispositivo criado a partir do reaproveitamento de componentes de cigarros eletrônicos apreendidos, transformando um resíduo ambiental e sanitário em uma ferramenta de saúde pública.
+&emsp;Diante dos desafios enfrentados por comunidades vulneráveis no combate às arboviroses, nasce o Vaporaid – uma solução que une sustentabilidade, acessibilidade e tecnologia para reduzir a exposição da população ao Aedes aegypti e outros vetores urbanos. O Vaporaid é um dispositivo criado a partir do reaproveitamento de componentes de cigarros eletrônicos apreendidos, transformando um resíduo ambiental e sanitário em uma ferramenta de saúde pública.
 
 ---
 ## Descrição Geral da Solução
@@ -13,7 +13,7 @@ sidebar_position: 1
 
 &emsp; O dispositivo é composto majoritariamente por componentes reaproveitados do cigarro eletrônico: o atomizador e a bateria de lítio de 3,7V, elementos presentes nos chamados pods dos vapes. Outros componentes, como o case externo, o algodão do atomizador - parte que guarda a nicotina -  e placas de circuito com sensor de pressão, são descartados ou substituídos. A estrutura final do Vaporaid inclui peças simples como fios, botão, resistores e transistores, compondo um sistema eficiente, seguro e de baixo custo (FIOCRUZ, 2021).
 
-&emsp; Como o dispositivo não é recarregável, ele entra em um sistema de logística reversa, no qual, após o esgotamento da bateria, o equipamento pode ser devolvido em pontos de coleta para reaproveitamento ou troca (Datafolha, 2023).
+&emsp; Como o dispositivo não é recarregável, ele entra em um sistema de logística reversa, no qual, após o esgotamento da bateria, o equipamento pode ser devolvido em pontos de coleta para reaproveitamento ou troca.
 
 ### Essência Repelente
 &emsp;O líquido utilizado no Vaporaid é similar ao presente em repelentes elétricos amplamente comercializados por marcas como SBP e Raid. A substância ativa principal é um piretróide sintético, que atua sobre o sistema nervoso dos mosquitos, causando desorientação ou paralisia, o que impede sua permanência no ambiente (SANTOS et al., 2018).
