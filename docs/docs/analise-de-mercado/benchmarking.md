@@ -32,7 +32,7 @@ O dispositivo Vaporaid, como um vaporizador de repelente líquido de baixo custo
 
 ### Diferenciais do Vaporaid (Conceito)
 
-* **Sustentabilidade Inerente:** É a única solução que parte da reutilização de um resíduo eletrônico problemático, transformando um passivo ambiental em um ativo de saúde pública. O "Global E-Waste Monitor 2024" (ONU) destaca a urgência de soluções para o e-lixo, e o Vaporaid responde diretamente a isso.
+* **Sustentabilidade Inerente:** É a única solução que parte da reutilização de um resíduo eletrônico problemático, transformando um passivo ambiental em um ativo de saúde pública. O "Global E-Waste Monitor 2024" destaca a urgência de soluções para o e-lixo, e o Vaporaid responde diretamente a isso.
 * **Custo de Produção Extremamente Baixo:** Permite um modelo de distribuição gratuita ou altamente subsidiada, crucial para alcançar as populações mais vulneráveis que, como aponta a POF do IBGE (2017-2018), têm orçamento limitado para itens de prevenção.
 * **Modelo de Economia Circular com Impacto Social:** A possibilidade de envolver cooperativas ou ONGs na montagem (conforme o edital da RFB direcionar) adiciona um componente de geração de renda e capacitação.
 
@@ -70,7 +70,7 @@ A decisão de implementar o Vaporaid através de um edital da Receita Federal é
     * **Fundações Empresariais e Institutos (e.g., Fundação Banco do Brasil, Fundação Vale, Instituto Clima e Sociedade - iCS):** Embora privadas, seus editais para projetos socioambientais seguem lógicas que podem inspirar o setor público, como foco em soluções escaláveis, capacidade de gestão do proponente e alinhamento com ODS.
     * **Editais de Inovação (e.g., FINEP, CNPq, FAPs Estaduais):** Valorizam o potencial de inovação, a qualificação técnica da equipe proponente e a clareza do plano de trabalho.
 * **Elementos Chave para o Edital Vaporaid da RFB (inspirado no benchmarking):**
-    * **Objetivos Claros e Métricas de Impacto:** O edital deve definir claramente o que se espera do projeto Vaporaid (e.g., número de dispositivos a serem produzidos/distribuídos, áreas prioritárias, resultados esperados em saúde e meio ambiente).
+    * **Objetivos Claros e Métricas de Impacto:** O edital deve definir claramente o que se espera do projeto Vaporaid (e.g., número de dispositivos a serem produzidos e distribuídos, áreas prioritárias, resultados esperados em saúde e meio ambiente).
     * **Critérios de Seleção Transparentes e Multifacetados:**
         * **Capacidade Técnica e de Gestão do Proponente:** Experiência em projetos de montagem (mesmo que simples), logística, gestão de projetos socioambientais, relacionamento com comunidades.
         * **Plano de Trabalho Detalhado:** Abrangendo desde o recebimento dos pods, processo de triagem e montagem segura, controle de qualidade, estratégia de distribuição em parceria com o SUS, plano de logística reversa e recondicionamento, até o descarte final de resíduos.
@@ -90,18 +90,18 @@ O projeto Vaporaid, especialmente com o modelo de implementação via edital da 
 * **Modelo de Execução Escalável e de Impacto:** A parceria com ONGs/empresas via edital permite alavancar a expertise e a capilaridade dessas organizações, enquanto o "guia Vaporaid" garante a replicação do conceito.
 * **Alinhamento com Políticas Públicas:** O projeto responde a necessidades urgentes de saúde pública (arboviroses) e ambientais (e-waste), alinhando-se a prioridades governamentais.
 
-Para maximizar o sucesso, o [**"Guia Técnico Vaporaid"**](https://www.canva.com/design/DAGpDxXl79w/rgA3nrl68XLV2Tc6VmH4gA/edit) é tecnicamente sólido, detalhando um processo de montagem seguro, eficiente e de baixo custo, juntamente com o  [**Edital da RFB**](https://docs.google.com/document/d/1y-GHCs55_5DZFfU7q9K-wJNUsF2mrYh-fzYIvCjmewA/edit?usp=sharing) bem estruturado, atraimos proponentes qualificados e garantimos uma implementação transparente e eficaz. As lições de outros projetos de economia circular e as boas práticas em editais públicos foram fundamentais nesse processo.
+Para maximizar o sucesso, o **"Guia Técnico Vaporaid"** é tecnicamente sólido, detalhando um processo de montagem seguro, eficiente e de baixo custo, juntamente com o **Edital da RFB** bem estruturado, atraímos proponentes qualificados e garantimos uma implementação transparente e eficaz. As lições de outros projetos de economia circular e as boas práticas em editais públicos foram fundamentais nesse processo.
 
 ---
 
-## Fontes de Referência (Tipos de Fontes Consultadas para este Benchmarking)
+## Referências
 
-1.  Global E-Waste Monitor. (2024). United Nations University (UNU) / United Nations Institute for Training and Research (UNITAR).
-2.  Instituto Brasileiro de Geografia e Estatística (IBGE). (2018). *Pesquisa de Orçamentos Familiares (POF) 2017-2018*.
-3.  Ministério da Saúde do Brasil. (2024). *Painel de Monitoramento das Arboviroses*.
-4.  Agência Nacional de Vigilância Sanitária (ANVISA). *Regulamentos sobre Saneantes e Repelentes*.
-5.  Relatórios e Sites de Organizações de Impacto Social e Ambiental (e.g., Bureo, Recode, Instituto C&A, Artesol, Natura, Ambev, BNDES, Fundação Banco do Brasil, iCS).
-6.  Portais de Editais Públicos (e.g., Portal da Transparência, sites de Ministérios, FINEP).
-7.  Estudos de Mercado sobre Produtos Repelentes e Inseticidas.
-8.  Publicações e Guias sobre Economia Circular e Logística Reversa (e.g., Ellen MacArthur Foundation, CNI).
-9.  Manuais e Guias de Boas Práticas em Gestão de Projetos Socioambientais.
+1. UNITED NATIONS UNIVERSITY; UNITED NATIONS INSTITUTE FOR TRAINING AND RESEARCH. Global E-Waste Monitor 2024. Disponível em: https://ewastemonitor.info. Acesso em: 01 jun. 2025.
+2. INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Pesquisa de Orçamentos Familiares (POF) 2017-2018. Rio de Janeiro: IBGE, 2019.
+3. MINISTÉRIO DA SAÚDE (Brasil). Painel de Monitoramento das Arboviroses. Brasília, 2024. Disponível em: https://www.gov.br/saude/pt-br/assuntos/noticias/2024/novembro/investimentos-no-controle-da-dengue-somam-r-1-5-bilhao-para-o-periodo-sazonal. Acesso em: 01 jun. 2025.
+4. AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. Regulamentos sobre Saneantes e Repelentes. Brasília, 2024.
+5. ELLEN MACARTHUR FOUNDATION. Circular Economy: A Wealth of Flows. 2015.
+6. GLOBAL IMPACT INVESTING NETWORK. IRIS+ System. Disponível em: https://iris.thegiin.org. Acesso em: 01 jun. 2025.
+7. BNDES. Editais e Chamadas Públicas. Disponível em: https://www.bndes.gov.br. Acesso em: 01 jun. 2025.
+
+*Observação: Dados de preços e características de mercado foram obtidos a partir de pesquisas em sites de grandes redes de varejo (2025) e relatórios de mercado de repelentes e inseticidas. Para informações sobre investimentos públicos, consultar: Ministério da Saúde, 2024.*
