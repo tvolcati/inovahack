@@ -3,7 +3,7 @@ title: Conceito
 sidebar_position: 1
 ---
 
-# Conceito
+# Conceito Solução
 
 &emsp;Diante dos desafios enfrentados por comunidades vulneráveis no combate às arboviroses, nasce o Vaporaid – uma solução inovadora que une sustentabilidade, acessibilidade e tecnologia para reduzir a exposição da população ao Aedes aegypti e outros vetores urbanos. O Vaporaid é um dispositivo criado a partir do reaproveitamento de componentes de cigarros eletrônicos apreendidos, transformando um resíduo ambiental e sanitário em uma ferramenta de saúde pública.
 
