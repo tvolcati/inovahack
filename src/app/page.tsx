@@ -436,6 +436,7 @@ export default function VaporaidLandingPage() {
                   por mosquitos. O Vaporaid surge como uma resposta inovadora.
                 </p>
               </div>
+              
 
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
