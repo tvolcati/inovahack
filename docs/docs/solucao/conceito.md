@@ -59,9 +59,6 @@ IBGE
 OPAS/OMS. Atualização epidemiológica: dengue, chikungunya e Zika – 10 de junho de 2023. Washington, D.C.: OPAS/OMS, 2023. Disponível em: https://www.paho.org/pt/documentos/atualizacao-epidemiologica-dengue-chikungunha-e-zika-10-junho-2023. Acesso em: 31 maio 2025.
 Paho
 
-OBSERVATÓRIO DAS DESIGUALDADES. Mapeamento das desigualdades socioespaciais nas capitais brasileiras. 2023. Disponível em: https://www.observatoriodasdesigualdades.org.br. Acesso em: 31 maio 2025.
-
-SANTOS, M. R. et al. Toxicidade de inseticidas piretróides em Aedes aegypti e sua eficácia em repelentes domésticos. Cadernos de Saúde Pública, v. 34, n. 6, 2018. Disponível em: https://www.scielo.br/j/csp/a/tdJK8ZQG8nHZKqtBzsyRzVq. Acesso em: 31 maio 2025.
 
 DATAFOLHA. 40% dos alunos de escolas públicas têm dificuldades na alfabetização. São Paulo: Datafolha, 2023. Disponível em: https://datafolha.folha.uol.com.br/opiniao-e-sociedade/2023/03/40-dos-alunos-de-escolas-publicas-tem-dificuldades-na-alfabetizacao.shtml. Acesso em: 31 maio 2025.
 Datafolha
