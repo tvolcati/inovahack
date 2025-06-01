@@ -74,18 +74,24 @@ sidebar_position: 1
 
 **Referências:**
 
-IBGE, Síntese de Indicadores Sociais 2023: https://www.ibge.gov.br/estatisticas/sociais/populacao/9221-sintese-de-indicadores-sociais.html
+ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE LIMPEZA PÚBLICA E RESÍDUOS ESPECIAIS. **Panorama dos Resíduos Sólidos no Brasil 2023**. São Paulo: ABRELPE, 2023. Disponível em: https://abrelpe.org.br/panorama/. Acesso em: 1 jun. 2025.
 
-Instituto Trata Brasil, Ranking do Saneamento 2023: https://www.tratabrasil.org.br/ranking-do-saneamento
+BRASIL. Ministério da Saúde. **Painel de Arboviroses 2024**. Brasília: MS, 2024. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/painel-de-arboviroses. Acesso em: 1 jun. 2025.
 
-Ministério da Saúde, Painel de Arboviroses 2024: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/painel-de-arboviroses
+COMPANHIA AMBIENTAL DO ESTADO DE SÃO PAULO. **Manual de Gerenciamento de Resíduos de Baterias 2023**. São Paulo: CETESB, 2023. Disponível em: https://cetesb.sp.gov.br/. Acesso em: 1 jun. 2025.
 
-Receita Federal, Notas Oficiais de Apreensão 2024: https://www.gov.br/receitafederal/pt-br
+DATAFOLHA INSTITUTO DE PESQUISAS. **Pesquisa sobre Prevenção e Repelentes 2023**. São Paulo: Datafolha, 2023.
 
-Global E-Waste Monitor 2024, ONU: https://ewastemonitor.info/
+FORTI, V. et al. **Global E-Waste Monitor 2024**. United Nations University/United Nations Institute for Training and Research: Bonn, Germany, 2024. Disponível em: https://ewastemonitor.info/. Acesso em: 1 jun. 2025.
 
-Abrelpe, Panorama dos Resíduos Sólidos 2023: https://abrelpe.org.br/panorama/
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Pesquisa Nacional por Amostra de Domicílios Contínua 2022**. Rio de Janeiro: IBGE, 2022.
 
-CETESB, Manual de Gerenciamento de Resíduos de Baterias 2023: https://cetesb.sp.gov.br/
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Síntese de Indicadores Sociais 2023**: uma análise das condições de vida da população brasileira. Rio de Janeiro: IBGE, 2023. Disponível em: https://www.ibge.gov.br/estatisticas/sociais/populacao/9221-sintese-de-indicadores-sociais.html. Acesso em: 1 jun. 2025.
 
-Datafolha, Pesquisa sobre Prevenção e Repelentes 2023.
+INSTITUTO DE PESQUISA ECONÔMICA APLICADA. **Nota Técnica 2023**: análise do custo de repelentes no Brasil. Brasília: IPEA, 2023.
+
+INSTITUTO TRATA BRASIL. **Ranking do Saneamento 2023**. São Paulo: Instituto Trata Brasil, 2023. Disponível em: https://www.tratabrasil.org.br/ranking-do-saneamento. Acesso em: 1 jun. 2025.
+
+RECEITA FEDERAL DO BRASIL. **Notas Oficiais de Apreensão 2024**. Brasília: RFB, 2024. Disponível em: https://www.gov.br/receitafederal/pt-br. Acesso em: 1 jun. 2025.
+
+RECEITA FEDERAL DO BRASIL. **Relatórios de Gestão 2023**. Brasília: RFB, 2023.
