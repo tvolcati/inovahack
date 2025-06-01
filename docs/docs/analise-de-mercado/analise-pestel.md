@@ -134,12 +134,12 @@ sidebar_position: 2
 
 ## Referências:
 
-Pesquisa de Orçamentos Familiares - IBGE. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv101677.pdf
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 16704:2019: Bateria de lítio para aplicações portáteis - Requisitos e métodos de ensaio. Rio de Janeiro: ABNT, 2019. Disponível em: https://www.abntcatalogo.com.br/norma.aspx?ID=386969. Acesso em: 01 jun. 2025.
 
-Lei nº 12.305/2010. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm
+BRASIL. Lei nº 12.305, de 2 de agosto de 2010. Institui a Política Nacional de Resíduos Sólidos; altera a Lei no 9.605, de 12 de fevereiro de 1998; e dá outras providências. Brasília, DF: Presidência da República, 2010. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm. Acesso em: 01 jun. 2025.
 
-Global E-Waste Monitor 2024 - ONU. Disponível em:https://globalewaste.org
+FORTI, Vanessa et al. The Global E-waste Monitor 2024. Bonn: United Nations University, 2024. Disponível em: https://globalewaste.org. Acesso em: 01 jun. 2025.
 
-Instituto Nacional de Pesquisas da Amazônia (INPA) - Pesquisa sobre repelentes naturais. Disponível em: https://portal.inpa.gov.br/noticias/inpa-desenvolve-repelente-natural-contra-o-aedes-aegypti
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Pesquisa de Orçamentos Familiares 2017-2018: perfil das despesas no Brasil. Rio de Janeiro: IBGE, 2019. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv101677.pdf. Acesso em: 01 jun. 2025.
 
-ABNT - Normas técnicas para bateria. Disponível em: https://www.abntcatalogo.com.br/norma.aspx?ID=386969
+INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA. INPA desenvolve repelente natural contra o Aedes aegypti. Manaus: INPA, 2024. Disponível em: https://portal.inpa.gov.br/noticias/inpa-desenvolve-repelente-natural-contra-o-aedes-aegypti. Acesso em: 01 jun. 2025.
