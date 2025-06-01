@@ -40,8 +40,6 @@ A produção centralizada facilita a logística de distribuição em massa, espe
 
 BRASIL. Ministério da Saúde. Informes Semanais de Arboviroses Urbanas. Brasília: 2024. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/arboviroses/informe-semanal/2024. Acesso em: 31 maio 2025.
 
-FIOCRUZ. Observatório de Clima e Saúde. 2021. Disponível em: https://www.climasaude.icict.fiocruz.br/. Acesso em: 31 maio 2025.
-
 IBGE. Atlas de Saneamento. 2022. Disponível em: https://www.ibge.gov.br/geociencias/atlas/tematicos/16365-atlas-de-saneamento.html. Acesso em: 31 maio 2025.
 
 MOREIRA, L. A. et al. Efeitos de piretróides em mosquitos vetores urbanos: revisão e perspectivas de aplicação. Revista Brasileira de Entomologia, v. 64, n. 3, p. 221–228, 2020. Disponível em: https://www.scielo.br/j/rbent/. Acesso em: 31 maio 2025.
