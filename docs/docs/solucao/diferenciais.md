@@ -18,7 +18,7 @@ O projeto também prevê parcerias com a Receita Federal, ONGs ambientais, empre
 
 ---
 ### Baixo Custo e Acessibilidade
-Graças ao uso majoritário de materiais reciclados, o custo estimado por unidade do Vaporaid fica abaixo de R$ 5,00, tornando-o altamente viável para produção em larga escala. Isso o torna adequado para programas de combate à dengue em regiões vulneráveis, especialmente em comunidades de baixa renda onde os métodos tradicionais muitas vezes não chegam (DATAFOLHA, 2023).
+Graças ao uso majoritário de materiais reciclados, o custo estimado por unidade do Vaporaid fica abaixo de R$ 6,20, tornando-o altamente viável para produção em larga escala. Isso o torna adequado para programas de combate à dengue em regiões vulneráveis, especialmente em comunidades de baixa renda onde os métodos tradicionais muitas vezes não chegam (DATAFOLHA, 2023).
 
 A distribuição será realizada de forma gratuita ou subsidiada pelo Estado, com foco em locais com maior incidência de arboviroses e menor acesso a saneamento e controle vetorial (IBGE, 2022).
 
