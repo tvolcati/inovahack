@@ -90,7 +90,7 @@ O projeto Vaporaid, especialmente com o modelo de implementação via edital da 
 * **Modelo de Execução Escalável e de Impacto:** A parceria com ONGs/empresas via edital permite alavancar a expertise e a capilaridade dessas organizações, enquanto o "guia Vaporaid" garante a replicação do conceito.
 * **Alinhamento com Políticas Públicas:** O projeto responde a necessidades urgentes de saúde pública (arboviroses) e ambientais (e-waste), alinhando-se a prioridades governamentais.
 
-Para maximizar o sucesso, é crucial que o **"Guia Vaporaid"** seja tecnicamente sólido, detalhando um processo de montagem seguro, eficiente e de baixo custo, e que o **Edital da RFB** seja bem estruturado, atraindo proponentes qualificados e garantindo uma implementação transparente e eficaz. As lições de outros projetos de economia circular e as boas práticas em editais públicos serão fundamentais nesse processo.
+Para maximizar o sucesso, o [**"Guia Técnico Vaporaid"**](https://www.canva.com/design/DAGpDxXl79w/rgA3nrl68XLV2Tc6VmH4gA/edit) é tecnicamente sólido, detalhando um processo de montagem seguro, eficiente e de baixo custo, juntamente com o  [**Edital da RFB**](https://docs.google.com/document/d/1y-GHCs55_5DZFfU7q9K-wJNUsF2mrYh-fzYIvCjmewA/edit?usp=sharing) bem estruturado, atraimos proponentes qualificados e garantimos uma implementação transparente e eficaz. As lições de outros projetos de economia circular e as boas práticas em editais públicos foram fundamentais nesse processo.
 
 ---
 
