@@ -1,0 +1,117 @@
+.image1Icon {
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    width: 1454px;
+    height: 573px;
+    object-fit: cover;
+}
+.frameChild {
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    background-color: #0f1f2a;
+    width: 1440px;
+    height: 573px;
+    opacity: 0.9;
+}
+.text {
+    position: absolute;
+    top: 479px;
+    left: 229px;
+    font-family: Inter;
+}
+.vaporaid31 {
+    position: absolute;
+    top: -67px;
+    left: -218px;
+    width: 1180.7px;
+    height: 1242px;
+}
+.aid {
+    color: #b13537;
+}
+.vaporaid {
+    position: absolute;
+    top: 188px;
+    left: 108px;
+    font-size: 120px;
+    font-family: 'ChunkFive Ex';
+    color: #fffaf2;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #3f8ec9;
+    width: 272px;
+    height: 80px;
+}
+.queroVerPontos {
+    position: absolute;
+    top: 12px;
+    left: 64px;
+    display: inline-block;
+    width: 196px;
+}
+.boxOpenSolid1Icon {
+    position: absolute;
+    top: 24px;
+    left: 12px;
+    width: 40px;
+    height: 32px;
+    overflow: hidden;
+}
+.rectangleParent {
+    position: absolute;
+    top: 465px;
+    left: 108px;
+    width: 272px;
+    height: 80px;
+    font-size: 24px;
+}
+.vaporaid61 {
+    position: absolute;
+    top: -35px;
+    left: 991px;
+    width: 506.9px;
+    height: 756.7px;
+    object-fit: contain;
+}
+.groupItem {
+    position: absolute;
+    top: 1px;
+    left: 171px;
+    border-radius: 8px;
+    background-color: #b13537;
+    width: 148px;
+    height: 48px;
+}
+.vaporQue {
+    white-space: pre-wrap;
+}
+.vaporQueProtegeContainer {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 316px;
+    left: 108px;
+    width: 319px;
+    height: 49px;
+    font-size: 36px;
+}
+.image1Parent {
+    width: 100%;
+    position: relative;
+    height: 653px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 12px;
+    color: #fff;
+    font-family: Lato;
+}
+
