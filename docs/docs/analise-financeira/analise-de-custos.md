@@ -3,92 +3,91 @@ title: Análise de Custos
 sidebar_position: 1
 ---
 
-Esta seção detalha a estimativa dos custos que a Receita Federal (RFB), ou uma entidade gestora por ela designada, incorreria para conceber, lançar, financiar e gerenciar o programa Vaporaid. O modelo central do programa é a contratação de Organizações da Sociedade Civil (OSCs) ou empresas, via [edital público](https://docs.google.com/document/d/1y-GHCs55_5DZFfU7q9K-wJNUsF2mrYh-fzYIvCjmewA/edit?usp=sharing), para assumirem a responsabilidade integral pela confecção dos Vaporaids, sua distribuição às comunidades vulneráveis, e a implementação da logística reversa dos dispositivos usados. Os custos abaixo refletem as despesas diretas e os investimentos que a RFB necessitaria para viabilizar esta iniciativa, utilizando como base um **Cenário Piloto Ilustrativo** de 1 ano, focado em uma região metropolitana de médio porte, com a meta de produção e gestão do ciclo de vida de **50.000 Vaporaids**.
+# Análise de Custos
+
+&emsp;Esta análise considera a arquitetura de produção do Desenrolai, que é diferente da prova de conceito desenvolvida anteriormente. O detalhamento da evolução arquitetural e as adaptações para escala estão aprofundados na seção de roadmap pós-hackathon. Aqui, trabalhamos com os custos reais da implementação escolhida para levar o produto à produção, priorizando o uso de recursos mínimos e infraestrutura enxuta.
 
 ---
 
-### 1. Custos de Estruturação do Programa e Lançamento do Edital (RFB)
+## 1. Premissas de Crescimento (Ano 1)
 
-Estes são os custos iniciais para a RFB preparar o arcabouço do programa e lançar o processo de seleção da(s) entidade(s) executora(s).
-
-* **Finalização do "Guia Vaporaid" e Elaboração/Publicação do Edital:**
-    * **Descrição:** Considerando que o "Guia Vaporaid" (detalhando a concepção técnica do dispositivo) e a minuta do edital são contribuições deste projeto de hackathon, os custos para a RFB envolvem a validação técnica e jurídica final, utilizando predominantemente sua equipe interna ou consultando órgãos públicos parceiros (e.g., ANVISA, INMETRO). Inclui também a diagramação profissional dos documentos (se não realizada internamente) e a publicação obrigatória do edital no Diário Oficial da União (DOU) e no portal oficial da RFB.
-    * **Estimativa (Cenário Piloto):**
-        * Validação externa mínima (para aspectos críticos não cobertos internamente): **R$ 10.000**
-        * Publicação no DOU e custos de disponibilização online: **R$ 7.000** ¹
-        * Design/diagramação profissional dos documentos finais (se necessário): **R$ 5.000**
-        * *Subtotal:* **R$ 22.000**
-
-* **Processo Seletivo do Edital:**
-    * **Descrição:** Condução do processo de recebimento, análise técnica e julgamento das propostas submetidas ao edital. Será realizada por uma comissão julgadora composta majoritariamente por servidores da RFB, podendo contar com apoio técnico (não remunerado) de especialistas de órgãos parceiros.
-    * **Estimativa (Cenário Piloto):**
-        * Despesas operacionais mínimas da comissão (e.g., deslocamentos para reuniões presenciais, se indispensáveis e não virtuais): **R$ 8.000**
-        * *Subtotal:* **R$ 8.000**
-
-### 2. Design e Prototipagem de Pontos de Coleta Padronizados (Lixeiras Personalizadas - RFB)
-
-Para assegurar uma identidade visual coesa ao programa de logística reversa e facilitar o reconhecimento e adesão dos usuários, a RFB arcará com os custos de desenvolvimento do design e a prototipagem das "lixeiras personalizadas" que servirão como pontos de coleta para os Vaporaids usados.
-
-* **Desenvolvimento do Design e Produção de Protótipos:**
-    * **Descrição:** Contratação de serviços de design industrial para criar um modelo de ponto de coleta (lixeira) que seja seguro, funcional, de baixo custo de replicação para o executor, e com a identidade visual do programa Vaporaid. Inclui a fabricação de um pequeno lote de protótipos (e.g., 5 a 10 unidades) para testes de usabilidade e como modelo de referência para a produção em massa pela entidade executora.
-    * **Estimativa (Cenário Piloto):** **R$ 25.000**
-
-### 3. Investimento Direto no Edital (Financiamento da Execução do Projeto pela RFB)
-
-Este é o principal e mais significativo componente de custo para a RFB. Representa o montante financeiro total que será repassado à(s) entidade(s) executora(s) selecionada(s) via edital para cobrir integralmente suas despesas operacionais, de gestão e **o investimento inicial em infraestrutura e automação** na implementação do projeto Vaporaid durante o período contratual.
-
-* **Descrição:** O valor destinado ao edital deve ser suficiente para que a entidade executora realize todas as etapas previstas no "Guia Vaporaid". Estas etapas incluem: aquisição de insumos (líquido repelente, algodão, componentes eletrônicos como o "step down", material para carcaças e embalagens); **investimento inicial em maquinário e tecnologias para automação/semiautomação dos processos de triagem, teste e montagem**; custos com a mão de obra remanescente e especializada na fase de PoC; estruturação e operação da rede de distribuição; implantação (incluindo produção das lixeiras personalizadas) e gestão dos pontos de coleta; custos logísticos da coleta dos Vaporaids usados e transporte para a central de recondicionamento; processo de recondicionamento; descarte final adequado de resíduos; campanhas de comunicação locais; e todos os custos administrativos, de gestão do projeto e uma margem para sustentabilidade ou lucro da entidade executora.
-* **Determinação do Valor do Edital (Cenário Piloto):** O valor deste investimento é determinado com base em uma análise de precificação unitária do Vaporaid (detalhada na seção "Precificação"), que estima os custos totais (incluindo o investimento em capacidade produtiva) para a entidade executora gerenciar cada dispositivo ao longo de seu ciclo de vida. Para o presente cenário piloto de 50.000 Vaporaids, foi adotado um custo unitário de R$ 30,00 para o executor.
-* **Estimativa do Investimento no Edital (Cenário Piloto):** 50.000 Vaporaids x R$ 30,00/unidade = **R$ 1.500.000**
-* **Estrutura de Pagamento (a ser definida no edital):** A RFB definirá no edital como os repasses serão efetuados, podendo ser em parcelas fixas vinculadas a um cronograma, pagamentos por metas alcançadas (e.g., número de Vaporaids produzidos e distribuídos, implantação da infraestrutura de automação, pontos de coleta ativos, taxa de retorno de dispositivos), ou um modelo misto. Contratos plurianuais implicarão compromissos orçamentários recorrentes para a RFB.
-
-### 4. Custos de Gestão, Monitoramento e Fiscalização do Programa (RFB)
-
-Custos contínuos para a RFB acompanhar a execução do contrato e garantir a correta aplicação dos recursos e o atingimento das metas do programa.
-
-* **Alocação de Equipe Interna e Visitas Técnicas:**
-    * **Descrição:** Horas de trabalho de servidores da RFB dedicadas à gestão contratual, acompanhamento de indicadores de desempenho, auditoria das prestações de contas e realização de visitas técnicas periódicas às instalações e áreas de atuação da(s) entidade(s) executora(s) para fiscalização.
-    * **Estimativa (Cenário Piloto Anual):** Despesas com deslocamento, passagens e diárias para fiscalização: **R$ 30.000**. (Os custos de pessoal interno são absorvidos pela estrutura existente da RFB).
-
-### 5. Custos Logísticos Iniciais de Envio dos Pods Apreendidos (RFB para Executores)
-
-Transporte da matéria-prima (cigarros eletrônicos apreendidos) dos depósitos da RFB até as instalações da(s) entidade(s) executora(s).
-
-* **Transporte da Carga Inicial:**
-    * **Descrição:** Se a RFB assumir a responsabilidade de entregar os lotes iniciais de pods aos executores, haverá custos de frete e seguro da carga.
-    * **Estimativa (Cenário Piloto):** Para o volume necessário para 50.000 Vaporaids, considerando algumas remessas: **R$ 10.000** ².
-
-### 6. Custos de Comunicação Institucional do Programa (RFB)
-
-Ações para divulgar o programa Vaporaid em nível federal, seus objetivos e resultados.
-
-* **Desenvolvimento de Kit Básico de Comunicação e Ações Pontuais:**
-    * **Descrição:** Criação de material informativo padrão sobre o programa Vaporaid (para o site da RFB, comunicados à imprensa oficial) e, possivelmente, pequenas campanhas digitais ou ações de relações públicas para dar visibilidade à iniciativa.
-    * **Estimativa (Cenário Piloto Anual):** **R$ 20.000**.
+- **Usuários iniciais:** 50
+- **Crescimento mensal:** 20%
+- **Usuários finais (mês 12):** ~1.974
+- **Interações por usuário/mês:** 4
+- **Tokens por interação:** 1.500 (input + output)
+- **Total de interações no ano 1:** ~47.376
 
 ---
 
-### Estimativa de Custo Total Consolidado para a RFB (Cenário Piloto Ilustrativo)
+## 2. Custos Mensais – Infraestrutura e Serviços
 
-Com base nos componentes detalhados acima, o custo total estimado para a Receita Federal referente à implementação do **Cenário Piloto Ilustrativo** do programa Vaporaid (1 ano, 50.000 Vaporaids) é:
-
-1.  Estruturação do Programa e Lançamento do Edital: R$ 30.000
-2.  Design e Prototipagem de Pontos de Coleta: R$ 25.000
-3.  Investimento Direto no Edital (Financiamento ao Executor, incluindo investimento inicial em automação): R$ 1.500.000
-4.  Gestão, Monitoramento e Fiscalização (Despesas Operacionais): R$ 30.000
-5.  Logística Inicial de Envio dos Pods: R$ 10.000
-6.  Comunicação Institucional do Programa: R$ 20.000
+| Serviço                  | Descrição                                                        | Valor Estimado (R$) | Observações                                                                                  |
+|--------------------------|------------------------------------------------------------------|---------------------|---------------------------------------------------------------------------------------------|
+| EC2 t2.micro             | Hospedagem EvolutionAPI e WhatsApp API Evolution                 | 46                  | Instância única, custo fixo mensal[4]                                                       |
+| PostgreSQL Gerenciado    | Banco de dados gerenciado (AWS RDS, GCP, etc.)                   | 60                  | Plano básico suficiente para MVP[2]                                                         |
+| Redis                    | Armazenamento de histórico de conversas                          | 35                  | Free tier cobre até 30MB; plano básico se necessário[3]                                     |
+| VPS própria (frontend)   | Hospedagem do frontend Next.js                                   | 0                   | Infraestrutura já existente, custo marginal                                                 |
+| WhatsApp API Evolution   | Rodando no EC2, sem custo adicional de API                       | 0                   | Incluído no custo do EC2                                                                    |
+| Domínio e SSL            | Registro de domínio e certificado SSL                            | 30                  | Custo anual rateado mensalmente                                                             |
+| Lambdas (backend, agents, e-mail) | Funções AWS Lambda para backend, agentes e envio de e-mails | 0                   | Uso dentro do free tier da AWS Lambda[1]                                                    |
 
 ---
-**CUSTO TOTAL ESTIMADO PARA A RFB (CENÁRIO PILOTO ILUSTRATIVO - 1 ANO): R$ 1.615.000**
+
+## 3. Custos com IA (Tokens GPT)
+
+| Modelo         | Custo por 1M tokens (US$) | Custo Mensal Estimado (R$) | Observações                                   |
+|----------------|---------------------------|----------------------------|----------------------------------------------|
+| GPT 4.1-nano   | $0,50                     | 6                          | Tokens distribuídos ao longo do mês           |
+| o3-mini        | $5,50                     | 66                         | Tokens distribuídos ao longo do mês           |
+
+*Cotação US$ 1 = R$ 5,50*  
+
 ---
 
-**Observações Cruciais sobre a Estimativa Consolidada:**
-* Este valor de **R$ 1.615.000** é uma estimativa para um cenário piloto específico e tem finalidade ilustrativa para demonstrar a ordem de grandeza dos custos envolvidos para a RFB.
-* O componente de maior impacto é o "Investimento Direto no Edital". Este valor, na fase piloto, já contempla o investimento inicial da entidade executora em infraestrutura e maquinário que visam a automação e a redução de custos em fases futuras, alinhado com o objetivo de longo prazo do programa.
-* A maior parte dos custos de "pessoal" da RFB para gestão e fiscalização está considerada como alocação de recursos humanos já existentes, não representando novos desembolsos de contratação, exceto pelas despesas operacionais de fiscalização.
-* A efetiva automação e otimização dos processos pela entidade executora, fomentadas desde a PoC, são cruciais para a potencial redução do custo unitário do Vaporaid em fases de expansão e, consequentemente, do valor necessário para editais subsequentes.
+## 4. Justificativa para Uso do AWS Lambda Gratuito
 
-### Conclusão da Análise de Custos (RFB/Gestão do Programa)
+O AWS Lambda oferece um free tier que cobre até 1 milhão de requisições e 400.000 GB-segundos de computação por mês, o que é mais do que suficiente para o volume inicial e médio de usuários do Desenrolai no primeiro ano. Isso permite que as funções backend, agents e envio de e-mails operem sem custo, reduzindo drasticamente o investimento inicial e operacional. A arquitetura serverless também garante escalabilidade automática e cobrança apenas pelo uso efetivo, alinhando-se ao perfil de crescimento gradual da solução[1].
 
-A implementação do programa Vaporaid pela RFB, através do modelo de edital, é uma iniciativa que requer um planejamento orçamentário cuidadoso. Os principais desembolsos da RFB concentram-se no financiamento da entidade executora, que realizará não apenas a produção e gestão do ciclo de vida dos Vaporaids, mas também o investimento inicial em capacidade produtiva escalável. Adicionalmente, a RFB incorrerá em custos para estruturar o programa, gerenciar os contratos e realizar a logística inicial da matéria-prima. Este investimento deve ser ponderado em face dos significativos benefícios sociais e ambientais esperados, que serão explorados na seção de "Viabilidade Financeira".
+---
+
+## 5. Estimativa de Custos Mensais ao Longo do Ano 1
+
+| Mês | Usuários Estimados | Custo Infraestrutura (R$) | Custo IA (R$) | Custo Total (R$) |
+|-----|--------------------|---------------------------|---------------|------------------|
+| 1   | 50                 | 171                       | 6             | 177              |
+| 2   | 60                 | 171                       | 7             | 178              |
+| 3   | 72                 | 171                       | 8             | 179              |
+| 4   | 86                 | 171                       | 9             | 180              |
+| 5   | 103                | 171                       | 11            | 182              |
+| 6   | 124                | 171                       | 13            | 184              |
+| 7   | 149                | 171                       | 15            | 186              |
+| 8   | 179                | 171                       | 18            | 189              |
+| 9   | 214                | 171                       | 21            | 192              |
+| 10  | 257                | 171                       | 25            | 196              |
+| 11  | 309                | 171                       | 30            | 201              |
+| 12  | 371                | 171                       | 36            | 207              |
+
+*Custos de infraestrutura são fixos; IA cresce com o número de tokens consumidos.*
+
+---
+
+## 6. Considerações Finais
+
+- A arquitetura serverless com AWS Lambda permite manter custos fixos muito baixos, especialmente no primeiro ano.
+- O uso do EC2 t2.micro para EvolutionAPI é o principal custo fixo mensal.
+- O uso do Redis e PostgreSQL em planos básicos garante persistência e performance adequadas para o MVP.
+- O frontend em VPS própria elimina custos adicionais de hospedagem.
+- O modelo de crescimento conservador e uso do free tier AWS Lambda garantem sustentabilidade financeira inicial.
+
+---
+
+## Referências
+
+[1] SIMFORM. AWS Lambda Pricing: How Much it Costs to Run a Serverless Application. Disponível em: https://www.simform.com/blog/aws-lambda-pricing/. Acesso em: 20 jun. 2025.
+
+[2] POSTGRESQL GLOBAL DEVELOPMENT GROUP. PostgreSQL. Disponível em: https://www.postgresql.org. Acesso em: 20 jun. 2025.
+
+[3] BYTEPLUS. Billing items and prices--Cache for Redis-Byteplus. Disponível em: https://docs.byteplus.com/en/docs/redis/billing-item-price. Acesso em: 20 jun. 2025.
+
+[4] GIST. Display the price summary of AWS EC2's spot instances across all regions and availability zones. Disponível em: https://gist.github.com/ikuyamada/364b29342a3dd14153eddbc6417543d8. Acesso em: 20 jun. 2025.

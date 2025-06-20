@@ -1,72 +1,117 @@
 ---
-title: Próximos Passos
+title: Roadmap Pós-Hackathon & Próximos Passos
 sidebar_position: 1
 ---
 
-A implementação do Programa Vaporaid seguirá um cronograma faseado, desde o lançamento do projeto piloto até a potencial expansão em escala nacional. Esta seção detalha as etapas e ações previstas, bem como considerações sobre os prazos e os investimentos necessários para alcançar o cenário pleno de operação.
+# Roadmap Pós-Hackathon & Próximos Passos
 
-### Fase 1: Lançamento e Execução do Programa Piloto (PoC) – Curto Prazo (Estimativa: 0-30 meses)
+&emsp;Esta seção apresenta o plano de ação do Desenrolai para o período imediatamente após o hackathon, com foco na transição da prova de conceito para a arquitetura de produção. Ressalta-se que a arquitetura de produção detalhada aqui é diferente da POC inicial, sendo aprofundada na seção de roadmap pós-hackathon. Todos os custos e etapas descritos consideram a implementação definitiva escolhida para levar o produto ao mercado.
 
-Esta fase é crucial para validar o conceito, testar a operacionalização e coletar dados fundamentais.
+---
 
-* **Ação 1.1: Finalização do Arcabouço Normativo e Técnico (Estimativa: Meses 1-2 do programa)**
-    * **Descrição:** Revisão final e aprovação interna pela Receita Federal do Brasil (RFB) do "Guia Técnico Vaporaid" (Anexo I do Edital) e da minuta completa do Edital de Chamamento Público, ambos concebidos como resultado deste projeto de hackathon. Inclui as validações jurídicas e técnicas necessárias.
-    * **Publicação:** Publicação oficial do Edital no Diário Oficial da União (DOU) e ampla divulgação nos canais da RFB e para redes de potenciais proponentes (ONGs, empresas, institutos de pesquisa).
+## 1. Imediato (Próximos Dias)
 
-* **Ação 1.2: Processo Seletivo da Entidade Executora do Piloto (Estimativa: Meses 3-6 do programa)**
-    * **Submissão de Propostas:** Período para as entidades interessadas elaborarem e submeterem suas propostas técnicas e financeiras (prazo de 45 a 60 dias, conforme definido no Edital).
-    * **Análise e Julgamento:** Avaliação das propostas pela Comissão de Seleção da RFB, compreendendo análise de habilitação, análise técnica (com base nos critérios do Edital, incluindo o plano de automação inicial) e análise orçamentária.
-    * **Resultado e Contratação:** Divulgação do resultado preliminar, prazo para recursos, homologação do resultado final e convocação da entidade vencedora para assinatura do contrato (ou instrumento jurídico equivalente).
+- **Contratação de Especialista em Endividamento:**  
+  Seleção e integração de um(a) profissional com experiência em consultoria financeira e negociação de dívidas para compor o time. Essa pessoa será responsável por validar fluxos da IA, revisar conteúdos e garantir a aderência das recomendações à realidade do público periférico.
 
-* **Ação 1.3: Implementação e Execução do Projeto Piloto (Estimativa: Meses 7-30 do programa, totalizando 24 meses de execução contratual)**
-    * **Atividades pela Entidade Executora (com acompanhamento da RFB):**
-        * Setup inicial da linha de produção (incluindo o investimento inicial em maquinário básico, gabaritos e sistemas de teste, conforme proposto e orçado).
-        * Recebimento e triagem dos lotes de DEFs fornecidos pela RFB.
-        * Produção seriada dos 50.000 Vaporaids, aplicando os processos de segurança e qualidade.
-        * Implementação da estratégia de distribuição em parceria com o sistema de saúde local na região metropolitana definida.
-        * Instalação e gestão da rede de pontos de coleta (lixeiras personalizadas).
-        * Operacionalização da logística reversa e dos processos de recondicionamento.
-        * Coleta contínua de dados (produção, distribuição, devolução, custos, impacto preliminar).
-        * Apresentação de relatórios periódicos de progresso físico e financeiro à RFB.
+---
 
-* **Ação 1.4: Avaliação Abrangente da Prova de Conceito (PoC) (Estimativa: Meses 28-30 do contrato do piloto, ou imediatamente após seu término)**
-    * **Descrição:** Realização de uma avaliação completa e detalhada dos resultados do projeto piloto. Análise de custos unitários reais, eficácia da distribuição e da logística reversa, aceitação comunitária, impacto preliminar na saúde (se mensurável neste prazo), desafios operacionais enfrentados, e lições aprendidas.
-    * **Relatório Final da PoC:** Consolidação dos dados e recomendações para aprimoramento do modelo e para as próximas fases do programa.
+## 2. Primeiro Trimestre (0-3 meses)
 
-### Fase 2: Otimização do Modelo e Planejamento para Expansão – Médio Prazo (Estimativa: 6 meses após a conclusão da avaliação da PoC)
+- **Desenvolvimento da Estrutura de Produção:**  
+  - Implantação do backend e agentes em AWS Lambda (free tier), PostgreSQL gerenciado, Redis básico e EC2 t2.micro para EvolutionAPI.
+  - Migração do frontend para VPS própria.
+  - Integração de todos os fluxos de dados e automações, garantindo segurança, escalabilidade e baixo custo operacional.
+- **Validação Técnica e de Produto:**  
+  - Testes com usuários reais da periferia para ajustar linguagem, UX e funcionalidades.
+  - Ajuste fino dos prompts e rotinas de IA com base no feedback.
+- **Preparação de Material de Comunicação:**  
+  - Criação de landing page, pitch deck e materiais para divulgação e captação de parceiros.
 
-Com base nos resultados da PoC, esta fase foca no refinamento do programa e na preparação para um aumento de escala.
+---
 
-* **Ação 2.1: Revisão e Aprimoramento do "Guia Técnico Vaporaid" e do Modelo de Edital:**
-    * Incorporar os aprendizados da PoC para otimizar as especificações técnicas do Vaporaid, os processos de produção (com maior detalhamento sobre as próximas etapas de automação), as diretrizes de segurança, e o modelo do edital (critérios de seleção, indicadores, cláusulas contratuais).
-* **Ação 2.2: Desenvolvimento do Plano Estratégico de Expansão (Regional e Nacional):**
-    * Definir metas de volume progressivas para a expansão (e.g., de 200.000 para 500.000 unidades/ano, rumo aos milhões em escala nacional).
-    * Mapear e priorizar novas regiões metropolitanas ou estados para implementação, com base em critérios epidemiológicos, de vulnerabilidade social e capacidade logística da RFB para fornecimento de DEFs.
-    * Estimar o investimento necessário da RFB para os novos editais, considerando o custo unitário alvo para o executor (R$ 9,00/unidade na fase madura) e os custos de gestão do programa pela RFB em maior escala.
-    * Definir a estratégia para os novos editais: poderão ser editais regionais para fomentar a participação de múltiplos executores locais/regionais, ou um edital nacional com capacidade para selecionar um ou mais consórcios/empresas com abrangência maior.
-* **Ação 2.3: Preparação e Lançamento de Novos Editais para Expansão Regional/Nacional:**
-    * **Cronograma para Novos Editais:** Após a avaliação da PoC e o planejamento da expansão (aproximadamente 30-36 meses após o início do programa geral), novos editais poderiam ser lançados.
-    * **Ciclo dos Novos Editais:** Semelhante ao da PoC (publicação, prazo para propostas, seleção, contratação), estimado em 3 a 4 meses por ciclo de edital.
+## 3. Segundo Trimestre (3-6 meses)
 
-### Fase 3: Implementação da Expansão Nacional e Operação em Larga Escala – Longo Prazo (A partir do 3º/4º ano em diante, progressivamente)
+- **Lançamento Beta Controlado:**  
+  - Liberação da plataforma para um grupo restrito de usuários, coletando métricas de uso, engajamento e retenção.
+  - Monitoramento intensivo de custos, performance e escalabilidade da arquitetura serverless.
+- **Ajustes Pós-Beta:**  
+  - Iteração rápida com base no feedback dos primeiros usuários.
+  - Implementação de melhorias sugeridas pelo especialista em endividamento.
+- **Primeiras Parcerias Locais:**  
+  - Contato com ONGs, coletivos periféricos e influenciadores para ampliação da base de testes e divulgação orgânica.
 
-Esta fase visa consolidar o Programa Vaporaid como uma iniciativa de impacto nacional e contínuo.
+---
 
-* **Ação 3.1: Contratação e Início das Operações das Entidades Executoras da Fase de Expansão:**
-    * Estabelecimento de contratos com as novas entidades selecionadas, garantindo a replicação do modelo com as otimizações identificadas.
-* **Ação 3.2: Monitoramento Contínuo, Foco na Eficiência Máxima e Inovação:**
-    * Acompanhamento da produção em larga escala, da logística nacional de distribuição e reversa, e dos impactos socioambientais e de saúde.
-    * Incentivo e acompanhamento da implementação dos planos de automação pelas entidades executoras, visando atingir e manter o custo unitário alvo (próximo de R$ 9,00 para o executor).
-    * Fomento à pesquisa e desenvolvimento para aprimoramento contínuo do Vaporaid (novos repelentes, materiais mais sustentáveis, maior eficiência energética das baterias).
-* **Ação 3.3: Avaliação de Impacto Nacional e Revisão Estratégica Contínua:**
-    * Realização de avaliações periódicas do impacto do programa em nível nacional (redução de casos de arboviroses, volume de e-lixo desviado, percepção da população, custo-benefício para o SUS).
-    * Revisão e ajuste da estratégia do programa conforme os resultados e as mudanças no contexto epidemiológico, tecnológico e social.
+## 4. Terceiro Trimestre (6-9 meses)
 
-### Dimensionamento Financeiro para o Cenário Pleno
+- **Escala Inicial e Parcerias Estratégicas:**  
+  - Início do processo para obtenção do Google for Startups, visando acesso a créditos em cloud e mentoria para aceleração do negócio.
+  - Aproximação com o Sebrae para discutir integração do Desenrolai aos serviços de apoio a microempreendedores. Proposta de uso do sistema para cálculo do tempo estimado para sair do negativado, agregando valor aos programas de educação financeira do Sebrae.
+- **Expansão da Base de Usuários:**  
+  - Ações de marketing digital, eventos locais e campanhas com parceiros para alcançar mais comunidades periféricas.
+- **Aprimoramento do Produto:**  
+  - Lançamento das funcionalidades premium, incluindo agentes de consultoria, notificações e relatórios personalizados.
 
-Atingir um "cenário pleno" de operação nacional é um objetivo de longo prazo que envolverá investimentos progressivos e contínuos.
-* **Custo da PoC:** O investimento inicial da RFB para a fase piloto é estimado em **R$ 1.615.000**.
-* **Custo Anual Estimado na Fase Plena (Nacional):** Quando o programa atingir a maturidade, com produção de, por exemplo, 2.500.000 Vaporaids/ano a um custo otimizado de R$ 9,00/unidade para o(s) executor(es), o investimento anual da RFB apenas para os editais seria de R$ 22.500.000. Somando-se os custos de gestão do programa pela RFB (estimados em R$ 300.000/ano para essa escala), o custo total anual para a RFB na fase plena seria da ordem de **R$ 22.800.000**.
-* **Custo de Implantação até o Cenário Pleno:** O custo total para "chegar lá" não é um valor único, mas a soma dos investimentos realizados na PoC e nos ciclos de editais de expansão regional e nacional ao longo de vários anos, até que a capacidade produtiva e a cobertura desejadas sejam alcançadas e os custos unitários estabilizados no patamar otimizado. A transição da PoC para a escala plena exigirá planejamento orçamentário plurianual e a garantia de dotações nos orçamentos da RFB.
+---
 
-Este roadmap delineia um caminho ambicioso, mas factível, para que o Programa Vaporaid se consolide como uma política pública inovadora, de alto impacto e referência na interface entre responsabilidade fiscal, saúde pública e sustentabilidade ambiental.
+## 5. Quarto Trimestre e Pós-Lançamento (9-12 meses)
+
+- **Lançamento Oficial:**  
+  - Disponibilização do Desenrolai para o público geral, com suporte completo e funcionalidades premium ativas.
+- **Monitoramento e Otimização Contínua:**  
+  - Análise de métricas de impacto social, satisfação do usuário e viabilidade financeira.
+  - Otimização de custos de infraestrutura e IA conforme crescimento da base.
+- **Fechamento de Parcerias Estratégicas:**  
+  - Consolidação da parceria com Sebrae e negociação com outras plataformas de educação e inclusão financeira.
+  - Exploração de novos mercados e adaptação do roadmap para públicos específicos (ex: mulheres chefes de família, jovens empreendedores).
+
+---
+
+## 6. Estrutura de Produção e Tecnologias
+
+<p style={{textAlign: 'center'}}>Figura 1 - Arquitetura de Produção</p>
+<div style={{margin: 25}}>
+    <div style={{textAlign: 'center'}}>
+        <img src={require("../../static/img/arquitetura.png").default} style={{width: 800}} alt="Persona Jéssica Barros" />
+        <br />
+    </div>
+</div>
+<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
+
+**Descrição da Arquitetura de Produção:**
+- **Backend e agentes:** AWS Lambda (free tier), garantindo escalabilidade automática e custo quase zero no início.
+- **EvolutionAPI e WhatsApp API:** Rodando em EC2 t2.micro, centralizando a comunicação.
+- **Banco de dados:** PostgreSQL gerenciado, seguro e de fácil manutenção.
+- **Redis:** Para histórico de conversas e sessões.
+- **Frontend:** Hospedado em VPS própria, eliminando custos de SaaS.
+- **Lambdas adicionais:** Usadas para envio de e-mails e agentes premium, também aproveitando o free tier.
+- **Monitoramento e logs:** Ferramentas integradas para acompanhamento de performance e segurança.
+
+Essa arquitetura foi escolhida para garantir baixo custo, alta disponibilidade e fácil escalabilidade, permitindo que a equipe foque no produto e no impacto social, sem se preocupar com custos fixos elevados ou complexidade operacional desnecessária.
+
+---
+
+## 7. Público Focal e Estratégia de Expansão
+
+- **Foco inicial:** Adultos de baixa renda, moradores de periferias urbanas, trabalhadores informais e pequenos empreendedores.
+- **Expansão:** Após validação, ampliar para outros segmentos vulneráveis (ex: mulheres chefes de família, jovens em busca do primeiro emprego, microempreendedores).
+- **Parcerias:** ONGs, coletivos periféricos, Sebrae, plataformas de educação financeira e programas de aceleração.
+
+---
+
+## Considerações Finais
+
+O roadmap pós-hackathon do Desenrolai prioriza a consolidação de uma equipe multidisciplinar, o desenvolvimento de uma arquitetura enxuta e escalável, a validação com o público-alvo real e a construção de parcerias estratégicas para garantir impacto social duradouro e sustentabilidade financeira.
+
+---
+
+## Referências
+
+[1] SIMFORM. AWS Lambda Pricing: How Much it Costs to Run a Serverless Application. 2025. Disponível em: https://www.simform.com/blog/aws-lambda-pricing/. Acesso em: 20 jun. 2025.
+
+[2] POSTGRESQL GLOBAL DEVELOPMENT GROUP. PostgreSQL. 2025. Disponível em: https://www.postgresql.org. Acesso em: 20 jun. 2025.
+
+[3] BYTEPLUS. Billing items and prices--Cache for Redis-Byteplus. 2025. Disponível em: https://docs.byteplus.com/en/docs/redis/billing-item-price. Acesso em: 20 jun. 2025.
+
+[4] GIST. Display the price summary of AWS EC2's spot instances across all regions and availability zones. 2025. Disponível em: https://gist.github.com/ikuyamada/364b29342a3dd14153eddbc6417543d8. Acesso em: 20 jun. 2025.
