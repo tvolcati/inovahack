@@ -13,5 +13,5 @@ sidebar_position: 10
 
 🔗 [Website](https://vaporaid.vercel.app/)
 
-🔗 [Documentação do projeto](https://miguelclaret.github.io/hackathon-vila-velha/)
+🔗 [Documentação do projeto](https://miguelclaret.github.io/inovahack/)
 

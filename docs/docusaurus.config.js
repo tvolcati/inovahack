@@ -14,15 +14,13 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/vape.png',
 
-
   // Set the production url of your site here
   url: "https://miguelclaret.github.io",
-  baseUrl: "/hackathon-vila-velha/",
+  baseUrl: "/inovahack/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
+  // GitHub pages deployment config.  // If you aren't using GitHub pages, you don't need these.
   organizationName: "miguelclaret", // Usually your GitHub org/user name.
-  projectName: "hackathon-vila-velha", // Usually your repo name.
+  projectName: "inovahack", // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,10 +64,9 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'img/vape.png',
-        },
-        items: [
+        },        items: [
           {
-            href: 'https://github.com/MiguelClaret/hackathon-vila-velha',
+            href: 'https://github.com/MiguelClaret/inovahack',
             label: 'GitHub',
             position: 'right',
           },
