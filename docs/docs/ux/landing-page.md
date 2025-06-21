@@ -20,7 +20,7 @@ sidebar_position: 2
 <p style={{textAlign: 'center'}}>Figura 1 - Interação com o Chatbot no WhatsApp</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/fluxo-whatsapp.png").default} style={{width: 400}} alt="Exemplo de conversa com o chatbot da DenserolaAI" />
+        <img src={require("../../static/img/fluxo_whatsapp.png").default} style={{width: 400}} alt="Exemplo de conversa com o chatbot da DenserolaAI" />
         <br />
     </div>
 </div>
