@@ -1,12 +1,16 @@
----
-title: Equipe
-sidebar_position: 15
+
+# 👥 Equipe – DesenrolaAI
+
+O projeto **DesenrolaAI** é desenvolvido por quatro alunos do **Inteli – Instituto de Tecnologia e Liderança**. Nosso time combina experiências em **desenvolvimento de software, design, negócios e impacto social**, com foco em **tecnologia aplicada à inclusão financeira.**
+
+A proposta nasce do desejo de resolver um problema real: **a falta de organização financeira e o endividamento de empreendedores periféricos e informais no Brasil.**
+
 ---
 
 # Membros da Equipe
 &emsp; O projeto Desenrolai é composto por seis alunos do Inteli – Instituto de Tecnologia e Liderança. A equipe combina experiência prática em tecnologia, empreendedorismo, design de produto e impacto social. Abaixo, apresentamos os membros da equipe:
 
-## Davi Nascimento Jesus
+---
 
 <p style={{textAlign: 'center'}}>Davi Jesus</p>
 <div style={{margin: 15}}>
@@ -31,7 +35,7 @@ sidebar_position: 15
 - **LinkedIn**: [Davi Jesus](https://www.linkedin.com/in/davi-jesus-/)  
 - **GitHub**: [github.com/Davi-Jesus](https://github.com/Davi-Jesus)
 
-## João Vitor Wandermurem
+---
 
 <p style={{textAlign: 'center'}}>João Wandermurem</p>
 <div style={{margin: 15}}>
@@ -56,7 +60,7 @@ sidebar_position: 15
 - **LinkedIn**: [João Wandermurem](https://www.linkedin.com/in/joao-wandermurem/)
 - **GitHub**: [github.com/joaowanderm](https://github.com/joaowanderm)
 
-## Lucas Periquito Costa
+---
 
 <p style={{textAlign: 'center'}}>Lucas Periquito</p>
 <div style={{margin: 15}}>
@@ -81,7 +85,7 @@ sidebar_position: 15
 - **LinkedIn**: [Lucas Periquito](https://www.linkedin.com/in/lucas-periquito/)
 - **GitHub**: [github.com/lucasperiquito](https://github.com/lucasperiquito)
 
-## Miguel Claret
+### 🔸 Davi Duarte
 
 <p style={{textAlign: 'center'}}>Miguel Claret</p>
 <div style={{margin: 15}}>
