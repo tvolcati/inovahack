@@ -21,12 +21,12 @@ jobs:
           
       - name: Install dependencies
         run: npm ci
-        working-directory: ./docs
-        
+        working-directory: ./docs        
       - name: Build Docusaurus
         run: npm run build
         working-directory: ./docs
-          - name: Deploy to GitHub Pages
+        
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
