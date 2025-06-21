@@ -49,7 +49,7 @@ sidebar_position: 2
 ### Proposta DenserolaAI
 
 - **Plano Premium Mensal:**
-  **R$ 25,50/mês**
+  **R$ 29,99/mês**
 
   &emsp;**Benefícios:** Acesso a um ecossistema completo de organização financeira, incluindo gestão de múltiplos roadmaps para diferentes metas, notificações proativas sobre oportunidades de renegociação, acesso a uma base de conhecimento com especialistas para tirar dúvidas, e-mails com dicas personalizadas e dashboards para acompanhamento de progresso.
 
@@ -57,7 +57,7 @@ sidebar_position: 2
   **R$ 249,90/ano** (equivale a R$ 20,82/mês, um **desconto de mais de 18%**)
 
 - **Justificativa:**
-  O preço de R$ 25,50 mensais posiciona a DenserolaAI como um **investimento no futuro financeiro do usuário, e não como um custo**. O valor é estrategicamente definido para ser percebido como acessível quando comparado ao retorno potencial: a economia gerada ao renegociar uma única dívida com as informações da plataforma pode pagar múltiplos anos de assinatura. O preço é justificado pelo acesso a uma ferramenta que oferece um retorno sobre o investimento (ROI) direto e tangível, capacitando o usuário a economizar centenas ou milhares de reais em juros e multas. O plano anual, com desconto atrativo, visa fidelizar a base e garantir uma receita recorrente mais estável para a sustentabilidade e evolução do projeto.
+  O preço de R$ 29,99 mensais posiciona a DenserolaAI como um **investimento no futuro financeiro do usuário, e não como um custo**. O valor é estrategicamente definido para ser percebido como acessível quando comparado ao retorno potencial: a economia gerada ao renegociar uma única dívida com as informações da plataforma pode pagar múltiplos anos de assinatura. O preço é justificado pelo acesso a uma ferramenta que oferece um retorno sobre o investimento (ROI) direto e tangível, capacitando o usuário a economizar centenas ou milhares de reais em juros e multas. O plano anual, com desconto atrativo, visa fidelizar a base e garantir uma receita recorrente mais estável para a sustentabilidade e evolução do projeto.
 
 ---
 

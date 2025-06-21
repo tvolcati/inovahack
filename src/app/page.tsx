@@ -18,8 +18,7 @@ import {
   ChevronLeft,
   ChevronRight,
   Clock,
-  ChevronDown,
-  PackageOpen,
+  ChevronDown,  PackageOpen,
 } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
@@ -137,44 +136,41 @@ const initialCollectionPoints = [
   },
 ];
 
-const missionVisionValuesData = [
-  {
+const missionVisionValuesData = [  {
     title: "Nossa Missão",
     icon: <Recycle className="h-10 w-10 text-[#3f8ec9] mb-3" />,
     content:
-      "Ressignificar resíduos eletrônicos em soluções inovadoras para a saúde pública e o meio ambiente, combatendo arboviroses de forma acessível e sustentável através do dispositivo Vaporaid.",
-  },
-  {
+      "Ajudar pessoas a organizarem e otimizarem suas vidas cotidianas através de soluções práticas e acessíveis, fornecendo ferramentas e serviços que promovam eficiência, bem-estar e qualidade de vida.",
+  },  {
     title: "Nossa Visão",
     icon: <Lightbulb className="h-10 w-10 text-[#3f8ec9] mb-3" />,
     content:
-      "Ser referência em inovação social e economia circular, inspirando a colaboração entre setor público, privado e comunidade para transformar desafios complexos em bem-estar coletivo e um futuro mais saudável.",
+      "Ser referência em soluções de organização pessoal e produtividade, inspirando pessoas a viverem de forma mais ordenada, eficiente e satisfatória.",
   },
   {
     title: "Nossos Valores",
     icon: <HeartPulse className="h-10 w-10 text-[#3f8ec9] mb-3" />,
     content: (
       <ul className="list-disc list-inside space-y-1 text-left text-sm sm:text-base">
-        {" "}
-        <li>
-          <strong>Sustentabilidade:</strong> Compromisso com o planeta e o uso
-          consciente de recursos.
+        {" "}        <li>
+          <strong>Eficiência:</strong> Compromisso com soluções que realmente
+          otimizam o tempo e recursos das pessoas.
         </li>{" "}
         <li>
-          <strong>Inovação:</strong> Busca contínua por soluções criativas e
-          eficazes.
+          <strong>Simplicidade:</strong> Busca contínua por ferramentas intuitivas e
+          fáceis de usar.
         </li>{" "}
         <li>
-          <strong>Impacto Social:</strong> Foco em gerar benefícios tangíveis
-          para a comunidade.
+          <strong>Bem-estar:</strong> Foco em gerar benefícios tangíveis
+          para a qualidade de vida dos usuários.
         </li>{" "}
         <li>
-          <strong>Colaboração:</strong> Crença no poder da união para alcançar
-          grandes objetivos.
+          <strong>Acessibilidade:</strong> Crença de que boas soluções devem estar
+          ao alcance de todos.
         </li>{" "}
         <li>
-          <strong>Transparência:</strong> Clareza em nossas ações e comunicação
-          com a sociedade.
+          <strong>Confiabilidade:</strong> Clareza e transparência em nossos serviços
+          e comunicação com os usuários.
         </li>{" "}
       </ul>
     ),
@@ -183,7 +179,7 @@ const missionVisionValuesData = [
 
 const ITEMS_PER_COLLECTION_SLIDE = 3;
 
-export default function VaporaidLandingPage() {
+export default function DesenrolaiLandingPage() {
   const [currentMVVSlide, setCurrentMVVSlide] = useState(0);
   const [showContent, setShowContent] = useState(false);
 
@@ -312,16 +308,15 @@ export default function VaporaidLandingPage() {
   return (
     <div className="flex flex-col min-h-screen bg-[#fffaf2] text-[#0f1f2a]">
       <header className="sticky top-0 z-50 w-full bg-[#fffaf2] shadow-md border-b border-[#dfdad3]">
-        <div className="container mx-auto flex items-center p-4">
-          <Link href="#" className="flex items-center">
+        <div className="container mx-auto flex items-center p-4">          <Link href="#" className="flex items-center">
             <Image
-              src="/vape_logo.png"
+              src="/logo.png"
               alt=""
               width={40}
               height={40}
               className=""
             />{" "}
-            <span className="text-2xl font-bold text-[#b13537]">Vaporaid</span>
+            <span className="text-2xl font-bold text-[#b13537]">Desenrolai</span>
           </Link>
           <nav className="hidden md:flex gap-6 ml-auto">
             <Link
@@ -329,12 +324,11 @@ export default function VaporaidLandingPage() {
               className="text-[#8d8c8c] hover:text-[#3f8ec9] transition-colors"
             >
               Sobre o Projeto
-            </Link>
-            <Link
+            </Link>            <Link
               href="#coleta"
               className="text-[#8d8c8c] hover:text-[#3f8ec9] font-semibold transition-colors"
             >
-              Pontos de Coleta
+              Download
             </Link>
             <Link
               href="#nossos-pilares"
@@ -359,20 +353,17 @@ export default function VaporaidLandingPage() {
 
           <div className="container mx-auto px-4 relative z-10">
             <div className="flex justify-around flex-col md:flex-row items-center">
-              <div className="w-full md:w-3/5 mb-10 md:mb-0 -mt-12">
-                <div className="justify-start">
+              <div className="w-full md:w-3/5 mb-10 md:mb-0 -mt-12">                <div className="justify-start">
                   <span className="text-white text-[12rem] leading-none font-chunk font-extrabold">
-                    Vapor
+                    Desenr
                   </span>
                   <span className="text-[#d13537] text-[12rem] leading-none font-chunk font-extrabold">
-                    aid
+                    olai
                   </span>
-                </div>
-
-                <p className="text-3xl md:text-4xl lg:text-5xl mb-10 pt-6">
-                  Vapor que{" "}
+                </div>                <p className="text-3xl md:text-4xl lg:text-5xl mb-10 pt-6">
+                  Que ajuda{" "}
                   <span className="bg-[#d13537] px-2 py-1 rounded-md text-white">
-                    protege.
+                    você.
                   </span>
                 </p>
 
@@ -383,13 +374,11 @@ export default function VaporaidLandingPage() {
                     className="bg-[#3f8ec9] text-[#fffaf2] font-semibold border-[#3f8ec9] hover:bg-[#2d7bb8] hover:border-[#2d7bb8] transition-colors flex items-center gap-4 px-6 py-8 rounded-md text-lg md:text-xl text-left leading-tight"
                   >
                     <PackageOpen className="w-48 h-48 shrink-0" />
-                    <span>Quero ver pontos de distribuição</span>
+                    <span>Quero baixar o app agora</span>
                   </Button>
                 </div>
-              </div>
-
-              <div className="flex-shrink-0">
-                <Image src="/vape.png" alt="" width={500} height={500} />
+              </div>              <div className="flex-shrink-0">
+                <Image src="/logo.png" alt="" width={500} height={500} />
               </div>
             </div>
           </div>
@@ -423,17 +412,15 @@ export default function VaporaidLandingPage() {
                     alt="Mosquito"
                     width={70}
                     height={70}
-                  />
-                  <h2 className="text-3xl font-bold text-[#0f1f2a]">
-                    O Desafio e a Solução Vaporaid
+                  />                  <h2 className="text-3xl font-bold text-[#0f1f2a]">
+                    Desenrole sua vida com nosso app
                   </h2>
 
                   <Image src="vape.png" alt="Mosquito" width={30} height={30} />
-                </div>
-                <p className="text-[#8d8c8c] max-w-2xl mx-auto">
-                  Enfrentamos dois grandes problemas: o descarte inadequado de
-                  cigarros eletrônicos e a persistência de doenças transmitidas
-                  por mosquitos. O Vaporaid surge como uma resposta inovadora.
+                </div>                <p className="text-[#8d8c8c] max-w-2xl mx-auto">
+                  Cansado de uma rotina desorganizada e estressante? O Desenrolai 
+                  é o aplicativo que vai transformar sua vida cotidiana em uma experiência 
+                  mais eficiente e tranquila.
                 </p>
               </div>
               
@@ -448,44 +435,39 @@ export default function VaporaidLandingPage() {
                     className="rounded-lg shadow-lg mx-auto border border-[#dfdad3]"
                   />
                 </div>
-                <div>
-                  <h3 className="text-2xl font-semibold text-[#0f1f2a] mb-3">
-                    Nossa Proposta: Ressignificar para Proteger
+                <div>                  <h3 className="text-2xl font-semibold text-[#0f1f2a] mb-3">
+                    Nossa Proposta: Organizar para Facilitar
                   </h3>
                   <p className="text-[#8d8c8c] mb-4">
-                    O Vaporaid é um dispositivo vaporizador de repelente
-                    líquido, desenvolvido a partir da reutilização de
-                    componentes de cigarros eletrônicos (vapes/pods) apreendidos
-                    e doados.
-                  </p>
-                  <ul className="space-y-2 text-[#8d8c8c]">
+                    O Desenrolai é um aplicativo móvel desenvolvido para ajudar 
+                    pessoas a organizarem suas tarefas, compromissos e rotinas 
+                    de maneira simples e eficiente.
+                  </p>                  <ul className="space-y-2 text-[#8d8c8c]">
                     <li className="flex items-start">
                       <Recycle className="h-5 w-5 text-[#3f8ec9] mr-2 mt-1 flex-shrink-0" />
                       <span>
                         <strong className="text-[#0f1f2a]">
-                          Componentes Reutilizados:
+                          Agenda Inteligente:
                         </strong>{" "}
-                        Baterias e atomizadores.
+                        Organize compromissos e lembretes automaticamente.
                       </span>
                     </li>
                     <li className="flex items-start">
                       <Lightbulb className="h-5 w-5 text-[#3f8ec9] mr-2 mt-1 flex-shrink-0" />
                       <span>
                         <strong className="text-[#0f1f2a]">
-                          Funcionamento Simples:
+                          Interface Simples:
                         </strong>{" "}
-                        Um interruptor ativa a vaporização do repelente,
-                        protegendo o ambiente.
+                        Design intuitivo que facilita o uso no dia a dia.
                       </span>
                     </li>
                     <li className="flex items-start">
                       <PackageOpen className="h-5 w-5 text-[#3f8ec9] mr-2 mt-1 flex-shrink-0" />
                       <span>
                         <strong className="text-[#0f1f2a]">
-                          Distribuição Gratuita:
+                          Acesso Gratuito:
                         </strong>{" "}
-                        Dispositivo distribuído em postos de saúde e
-                        prefeituras.
+                        Download gratuito disponível para iOS e Android.
                       </span>
                     </li>
                   </ul>
@@ -494,7 +476,7 @@ export default function VaporaidLandingPage() {
             </div>
           </section>
 
-          {/* Seção de Pontos de Coleta */}
+          {/* Seção de Download do App */}
           <section id="coleta" className="relative py-16 px-4 overflow-hidden">
             {/* Imagem de fundo */}
             <img
@@ -508,13 +490,12 @@ export default function VaporaidLandingPage() {
 
             {/* Conteúdo */}
             <div className="relative z-10 container mx-auto">
-              <div className="text-center mb-12">
-                <h2 className="text-3xl font-bold text-white mb-4">
-                  Pontos de Coleta
+              <div className="text-center mb-12">                <h2 className="text-3xl font-bold text-white mb-4">
+                  Download do App
                 </h2>
                 <p className="text-white/90 max-w-2xl mx-auto">
-                  Encontre o ponto de coleta mais próximo de você e contribua
-                  para um futuro mais sustentável.
+                  Baixe o Desenrolai para seu dispositivo e comece a organizar sua 
+                  vida de forma mais eficiente hoje mesmo.
                 </p>
               </div>
 
@@ -664,7 +645,7 @@ export default function VaporaidLandingPage() {
             </div>
           </section>
 
-          {/* Ciclo de Vida e Sustentabilidade */}
+          {/* Processo de Desenvolvimento */}
           <section className="relative py-16 px-4">
             {/* Imagem de fundo */}
             <img
@@ -677,13 +658,12 @@ export default function VaporaidLandingPage() {
               {/* Mosquito à esquerda */}
 
               {/* Texto centralizado */}
-              <div className="text-center max-w-2xl mx-auto mb-12">
-                <h2 className="text-3xl font-bold text-[#0f1f2a] mb-2">
-                  Ciclo de Vida Sustentável
+              <div className="text-center max-w-2xl mx-auto mb-12">                <h2 className="text-3xl font-bold text-[#0f1f2a] mb-2">
+                  Como Funciona o Desenrolai
                 </h2>
                 <p className="text-[#4b4b4b]">
-                  O Vaporaid é pensado para um ciclo completo, da produção ao
-                  descarte consciente e recondicionamento.
+                  O Desenrolai foi desenvolvido para ser simples, intuitivo e 
+                  eficaz na organização da sua rotina.
                 </p>
               </div>
 
@@ -691,17 +671,16 @@ export default function VaporaidLandingPage() {
               <div className="flex flex-col lg:flex-row items-center justify-center gap-8">
                 {/* Div dos Cards */}
                 <div className="flex flex-col">
-                  <div className="grid grid-cols-1 gap-8">
-                    <Card className="bg-[#fffaf2] border-[#dfdad3]">
+                  <div className="grid grid-cols-1 gap-8">                    <Card className="bg-[#fffaf2] border-[#dfdad3]">
                       <CardHeader>
                         <CardTitle className="text-[#0f1f2a]">
-                          1. Coleta e Doação
+                          1. Cadastre-se
                         </CardTitle>
                       </CardHeader>
                       <CardContent>
                         <p className="text-[#8d8c8c]">
-                          Vapes e pods são coletados em pontos específicos,
-                          doados pela população e parceiros.
+                          Faça seu cadastro e configure suas preferências 
+                          pessoais no aplicativo.
                         </p>
                       </CardContent>
                     </Card>
@@ -709,13 +688,13 @@ export default function VaporaidLandingPage() {
                     <Card className="bg-[#fffaf2] border-[#dfdad3]">
                       <CardHeader>
                         <CardTitle className="text-[#0f1f2a]">
-                          2. Transformação
+                          2. Organize
                         </CardTitle>
                       </CardHeader>
                       <CardContent>
                         <p className="text-[#8d8c8c]">
-                          Componentes são testados, adaptados e montados no
-                          dispositivo Vaporaid com repelente.
+                          Adicione suas tarefas, compromissos e metas 
+                          de forma simples e intuitiva.
                         </p>
                       </CardContent>
                     </Card>
@@ -723,14 +702,13 @@ export default function VaporaidLandingPage() {
                     <Card className="bg-[#fffaf2] border-[#dfdad3]">
                       <CardHeader>
                         <CardTitle className="text-[#0f1f2a]">
-                          3. Proteção em Ação
+                          3. Viva Melhor
                         </CardTitle>
                       </CardHeader>
                       <CardContent>
                         <p className="text-[#8d8c8c]">
-                          O Vaporaid é utilizado pela comunidade para dispersar
-                          o repelente, protegendo os lares contra o mosquito
-                          transmissor.
+                          Desfrute de uma rotina mais organizada e produtiva 
+                          com lembretes e sugestões personalizadas.
                         </p>
                       </CardContent>
                     </Card>
@@ -741,7 +719,7 @@ export default function VaporaidLandingPage() {
                 <div className="text-center">
                   <Image
                     src="/reciclagem.jpeg"
-                    alt="Diagrama do ciclo de vida do Vaporaid"
+                    alt="Diagrama do ciclo de vida do Desenrolai"
                     width={600}
                     height={300}
                     className="rounded-lg shadow-lg mx-auto border border-[#dfdad3]"
@@ -756,10 +734,9 @@ export default function VaporaidLandingPage() {
               <div className="text-center mb-12">
                 <h2 className="text-3xl font-bold text-[#0f1f2a] mb-4">
                   Nossos Pilares
-                </h2>
-                <p className="text-[#8d8c8c] max-w-2xl mx-auto">
-                  Conheça a Missão, Visão e Valores que guiam o Projeto Vaporaid
-                  na busca por um futuro mais saudável e sustentável.
+                </h2>                <p className="text-[#8d8c8c] max-w-2xl mx-auto">
+                  Conheça a Missão, Visão e Valores que guiam o Projeto Desenrolai
+                  na busca por uma vida mais organizada e produtiva.
                 </p>
               </div>
 
@@ -790,20 +767,19 @@ export default function VaporaidLandingPage() {
           </section>
 
           <section className="py-20 px-4 bg-[#3f8ec9] text-[#fffaf2]">
-            <div className="container mx-auto text-center">
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                Junte-se à Revolução Vaporaid!
+            <div className="container mx-auto text-center">              <h2 className="text-3xl md:text-4xl font-bold mb-6">
+                Junte-se à Revolução Desenrolai!
               </h2>
               <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto opacity-90">
-                Sua pequena ação de doar um vape pode ter um grande impacto na
-                saúde da sua comunidade e na preservação do meio ambiente.
+                Sua vida organizada está a um download de distância. Transforme 
+                sua rotina caótica em uma experiência eficiente e tranquila.
               </p>
               <Link href="#coleta">
                 <Button
                   size="lg"
                   className="bg-[#fffaf2] text-[#3f8ec9] hover:bg-[#dfdad3] border-[#fffaf2] hover:border-[#dfdad3] transition-colors"
                 >
-                  Encontrar Ponto de Coleta Agora
+                  Baixar o App Agora
                 </Button>
               </Link>
             </div>
@@ -817,17 +793,16 @@ export default function VaporaidLandingPage() {
             <Link
               href="#"
               className="flex items-center justify-center gap-2 mb-2"
-            >
-              <Image
-                src="/vape_logo.png"
+            >              <Image
+                src="/logo.png"
                 alt=""
                 width={40}
                 height={40}
                 className=""
               />{" "}
-              <span className="text-xl font-bold text-[#fffaf2]">Vaporaid</span>
+              <span className="text-xl font-bold text-[#fffaf2]">Desenrolai</span>
             </Link>
-            <p className="text-sm">Transformando resíduos em bem-estar.</p>
+            <p className="text-sm">Organizando vidas, um app por vez.</p>
           </div>
           <div className="flex justify-center gap-6 mb-4">
             <Link
@@ -835,12 +810,11 @@ export default function VaporaidLandingPage() {
               className="hover:text-[#3f8ec9] transition-colors"
             >
               Sobre
-            </Link>
-            <Link
+            </Link>            <Link
               href="#coleta"
               className="hover:text-[#3f8ec9] transition-colors"
             >
-              Coleta
+              Download
             </Link>
             <Link
               href="#nossos-pilares"
@@ -859,8 +833,7 @@ export default function VaporaidLandingPage() {
               Contato
             </Link>
           </div>
-          <p className="text-xs">
-            &copy; {new Date().getFullYear()} Projeto Vaporaid. Todos os
+          <p className="text-xs">            &copy; {new Date().getFullYear()} Projeto Desenrolai. Todos os
             direitos reservados.
           </p>
         </div>

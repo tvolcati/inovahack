@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Vaporaid',
-  description: 'Vaporaid - Vapor que protege.'
+  title: 'Desenrolai',
+  description: 'Desenrolai - Desenrole sua vida.'
 }
 
 export default function RootLayout({

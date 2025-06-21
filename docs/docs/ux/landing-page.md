@@ -3,11 +3,11 @@ title: Sobre o Site
 sidebar_position: 2
 ---
 
-# Site Vaporaid
+# Site Desenrolai
 
 ## Conceito
 
-&emsp;O site do projeto Vaporaid tem como intuito ajudar a população a localizar pontos de coleta onde possam descartar seus cigarros eletrônicos de forma segura, consciente e ainda contribuir com a iniciativa. Os dispositivos descartados serão direcionados ao projeto Vaporaid, que busca dar um novo destino aos cigarros eletrônicos apreendidos pela Receita Federal.
+&emsp;O site do projeto Desenrolai tem como objetivo apresentar o aplicativo de organização pessoal e produtividade que vai transformar a rotina dos usuários. O site serve como uma landing page para promover o download do app e explicar suas principais funcionalidades e benefícios.
 
 Nesta seção, vamos detalhar o design do site e a função de cada uma das suas partes.
 
@@ -15,7 +15,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 
 ## Seção de Boas Vindas
 
-&emsp;Esta é a primeira seção visualizada ao acessar o site. Onde a principal imagem mostra o *slogan* do projeto e um botão de "Quero ver pontos de distribuição", que leva o usuário até a lista de pontos de coleta.
+&emsp;Esta é a primeira seção visualizada ao acessar o site. A principal mensagem apresenta o conceito do Desenrolai com o slogan "Que ajuda você" e um botão de "Quero baixar o app agora", que direciona o usuário para a seção de download.
 
 <p style={{textAlign: 'center'}}>Figura 1 - Seção de Boas Vindas</p>
 <div style={{margin: 25}}>
@@ -28,7 +28,7 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 
 ## Nossa Solução
 
-&emsp;Esta é seção onde abordarmos nosso problema é como nossa solução ataca a problemática. 
+&emsp;Esta seção apresenta como o Desenrolai resolve os problemas de organização pessoal e produtividade, explicando as principais funcionalidades do aplicativo e como ele pode transformar a rotina dos usuários.
 
 <p style={{textAlign: 'center'}}>Figura 2 - Nossa Solução</p>
 <div style={{margin: 25}}>
@@ -40,14 +40,9 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 <p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 
-## Lista de Pontos de Coleta
+## Download do App
 
-&emsp;Esta é a seção onde com base nos filtros escolhidos, como Estado, cidade e bairro, o site exibe uma lista de pontos de coleta, cada um com:
-
-* Nome do local
-* Endereço completo
-* Horário de funcionamento
-* Botão para visualizar no mapa
+&emsp;Esta seção permite aos usuários baixar o aplicativo Desenrolai. Apresenta informações sobre disponibilidade para diferentes plataformas e links diretos para as lojas de aplicativos (iOS e Android).
 
 <p style={{textAlign: 'center'}}>Figura 3 - Pontos de Coleta</p>
 <div style={{margin: 25}}>
@@ -59,20 +54,20 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 <p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 
-## Ciclo de Vida Sustentável
+## Como Funciona o Desenrolai
 
-&emsp;Esta seção explica de forma visual e textual o fluxo completo de transformação dos cigarros eletrônicos descartados: desde a coleta até a reutilização em forma de dispositivos repelentes.
+&emsp;Esta seção explica de forma visual e textual o processo de uso do aplicativo, desde o cadastro até a melhoria na qualidade de vida do usuário.
 
-&emsp;Cada card aborda uma etapa do processo:
+&emsp;Cada card apresenta uma etapa do processo:
 
-1. **Coleta e Doação** – Os vapes são coletados em pontos parceiros.
-2. **Transformação** – Os componentes são reaproveitados para criar o Vaporaid.
-3. **Proteção em Ação** – O dispositivo é usado para proteger lares da infestação de mosquitos.
+1. **Cadastre-se** – O usuário faz seu registro e configura suas preferências.
+2. **Organize** – Adiciona tarefas, compromissos e metas no aplicativo.
+3. **Viva Melhor** – Desfruta de uma rotina mais organizada com lembretes personalizados.
 
-<p style={{textAlign: 'center'}}>Figura 4 - Ciclo de Vida Vaporaid</p>
+<p style={{textAlign: 'center'}}>Figura 4 - Como Funciona o Desenrolai</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page4.png").default} style={{width: 800}} alt="Ciclo de Vida Vaporaid" />
+        <img src={require("../../static/img/site/page4.png").default} style={{width: 800}} alt="Como Funciona o Desenrolai" />
         <br />
     </div>
 </div>
@@ -80,12 +75,12 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 
 ## Nossos Pilares
 
-&emsp;Aqui são apresentados os três fundamentos que sustentam o projeto Vaporaid: **Missão, Visão e Valores**.
+&emsp;Aqui são apresentados os três fundamentos que sustentam o projeto Desenrolai: **Missão, Visão e Valores**.
 
-<p style={{textAlign: 'center'}}>Figura 5 - Pilares Vaporaid</p>
+<p style={{textAlign: 'center'}}>Figura 5 - Pilares Desenrolai</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page5.png").default} style={{width: 800}} alt="Pilares Vaporaid" />
+        <img src={require("../../static/img/site/page5.png").default} style={{width: 800}} alt="Pilares Desenrolai" />
         <br />
     </div>
 </div>
@@ -112,4 +107,4 @@ Nesta seção, vamos detalhar o design do site e a função de cada uma das suas
 
 ## Conclusão
 
-&emsp;O site Vaporaid foi desenhado para ser informativo, funcional e engajador. Cada seção foi pensada para comunicar com clareza a missão do projeto e facilitar a participação ativa da população na iniciativa. Com uma experiência de navegação simples e visualmente agradável. Por meio dela, os usuários podem contribuir diretamente para o reaproveitamento de cigarros eletrônicos apreendidos, encontrando pontos de coleta próximos e apoiando a causa de maneira prática e acessível.
+&emsp;O site Desenrolai foi desenhado para ser informativo, funcional e engajador. Cada seção foi pensada para comunicar com clareza a proposta do aplicativo e facilitar o download pelos usuários interessados. Com uma experiência de navegação simples e visualmente agradável, o site serve como uma vitrine digital que demonstra o valor e os benefícios do app de organização pessoal Desenrolai.

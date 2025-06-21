@@ -10,16 +10,16 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Vaporaid',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/vape.png',
-
+  title: 'Desenrolai',
+  tagline: 'Desenrole sua vida',
+  favicon: 'img/logo.png',
   // Set the production url of your site here
-  url: "https://miguelclaret.github.io",
+  url: "https://tvolcati.github.io",
   baseUrl: "/inovahack/",
+  trailingSlash: false,
 
   // GitHub pages deployment config.  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "miguelclaret", // Usually your GitHub org/user name.
+  organizationName: "tvolcati", // Usually your GitHub org/user name.
   projectName: "inovahack", // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -58,15 +58,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
-      navbar: {
-        title: 'Vaporaid',
+      image: 'img/docusaurus-social-card.jpg',      navbar: {
+        title: 'Desenrolai',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/vape.png',
+          src: 'img/logo.png',
         },        items: [
           {
-            href: 'https://github.com/MiguelClaret/inovahack',
+            href: 'https://github.com/tvolcati/inovahack',
             label: 'GitHub',
             position: 'right',
           },
