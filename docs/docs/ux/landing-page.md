@@ -1,110 +1,49 @@
 ---
-title: Sobre o Site
+title: Experiência do Usuário e Site
 sidebar_position: 2
 ---
 
-# Site Desenrolai
+# Experiência do Usuário e Site da DenserolaAI
 
-## Conceito
+## Conceito da Jornada
 
-&emsp;O site do projeto Desenrolai tem como objetivo apresentar o aplicativo de organização pessoal e produtividade que vai transformar a rotina dos usuários. O site serve como uma landing page para promover o download do app e explicar suas principais funcionalidades e benefícios.
+&emsp;A experiência do usuário da DenserolaAI foi desenhada para ser radicalmente simples, acessível e respeitosa. Entendemos que nosso público vive no WhatsApp e tem pouco tempo para aplicativos complexos. Por isso, criamos uma jornada híbrida que começa em um ambiente familiar (o chat) e culmina em uma página web limpa, objetiva e que entrega o valor principal do nosso serviço: clareza e um plano para sair das dívidas.
 
-Nesta seção, vamos detalhar o design do site e a função de cada uma das suas partes.
+&emsp;Nesta seção, vamos detalhar o fluxo completo do usuário, desde a primeira interação com nossa IA até a visualização do seu roadmap financeiro personalizado.
 
+## O Fluxo do Usuário em 3 Etapas
 
+### Etapa 1: A Conversa com a IA no WhatsApp
 
-## Seção de Boas Vindas
+&emsp;Tudo começa com um "oi". O usuário inicia uma conversa com nosso número e é imediatamente recebido pela IA da DenserolaAI. Com uma linguagem de quebrada, parceira e sem julgamentos, o chatbot guia o usuário por um fluxo de perguntas essenciais para entender sua situação financeira. As perguntas são diretas e feitas uma de cada vez para não sobrecarregar: "Quais dívidas você tem?", "Qual sua renda mensal?", "E seus custos fixos?". O objetivo é coletar as informações necessárias de forma leve e conversacional.
 
-&emsp;Esta é a primeira seção visualizada ao acessar o site. A principal mensagem apresenta o conceito do Desenrolai com o slogan "Que ajuda você" e um botão de "Quero baixar o app agora", que direciona o usuário para a seção de download.
-
-<p style={{textAlign: 'center'}}>Figura 1 - Seção de Boas Vindas</p>
+<p style={{textAlign: 'center'}}>Figura 1 - Interação com o Chatbot no WhatsApp</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page1.png").default} style={{width: 800}} alt="Seção de boas vindas" />
+        <img src={require("../../static/img/fluxo-whatsapp.png").default} style={{width: 400}} alt="Exemplo de conversa com o chatbot da DenserolaAI" />
         <br />
     </div>
 </div>
 <p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
-## Nossa Solução
+### Etapa 2: O Recebimento do Link
 
-&emsp;Esta seção apresenta como o Desenrolai resolve os problemas de organização pessoal e produtividade, explicando as principais funcionalidades do aplicativo e como ele pode transformar a rotina dos usuários.
+&emsp;Assim que o usuário fornece as informações, a IA processa os dados em segundos. Em vez de um relatório complicado ou um PDF, a DenserolaAI informa que o plano está pronto e envia a solução da forma mais simples possível: um **link único e pessoal**. Este link é a ponte entre a coleta de dados no WhatsApp e a visualização do plano de ação. "Fechou, mano. Tá aqui o seu plano pra desenrolar a vida. É só clicar:"
 
-<p style={{textAlign: 'center'}}>Figura 2 - Nossa Solução</p>
+### Etapa 3: A Página do Roadmap Financeiro
+
+&emsp;Ao clicar no link, o usuário é direcionado para a sua página de roadmap personalizada. O design da página é limpo, mobile-first e segue a identidade visual da DenserolaAI, com o objetivo de ser motivador e fácil de entender. A página apresenta o plano em um formato de linha do tempo vertical, com cards para cada mês. Cada card mostra claramente a "meta do mês", o valor a ser guardado e uma explicação curta e direta, com a mesma linguagem parceira do chatbot. Entre os cards, há um espaço discreto reservado para publicidade de parceiros que oferecem cursos e outras soluções de desenvolvimento para o nosso público.
+
+<p style={{textAlign: 'center'}}>Figura 2 - Visualização do Roadmap Financeiro Personalizado</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page2.png").default} style={{width: 800}} alt="Nossa Solução" />
-        <br />
-    </div>
-</div>
-<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
-
-
-## Download do App
-
-&emsp;Esta seção permite aos usuários baixar o aplicativo Desenrolai. Apresenta informações sobre disponibilidade para diferentes plataformas e links diretos para as lojas de aplicativos (iOS e Android).
-
-<p style={{textAlign: 'center'}}>Figura 3 - Pontos de Coleta</p>
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page3.png").default} style={{width: 800}} alt="Pontos de Coleta" />
+        <img src={require("../../static/img/roadmap-site.png").default} style={{width: 400}} alt="Interface do site com o roadmap financeiro" />
         <br />
     </div>
 </div>
 <p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
 
 
-## Como Funciona o Desenrolai
+## Conclusão da Experiência
 
-&emsp;Esta seção explica de forma visual e textual o processo de uso do aplicativo, desde o cadastro até a melhoria na qualidade de vida do usuário.
-
-&emsp;Cada card apresenta uma etapa do processo:
-
-1. **Cadastre-se** – O usuário faz seu registro e configura suas preferências.
-2. **Organize** – Adiciona tarefas, compromissos e metas no aplicativo.
-3. **Viva Melhor** – Desfruta de uma rotina mais organizada com lembretes personalizados.
-
-<p style={{textAlign: 'center'}}>Figura 4 - Como Funciona o Desenrolai</p>
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page4.png").default} style={{width: 800}} alt="Como Funciona o Desenrolai" />
-        <br />
-    </div>
-</div>
-<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
-
-## Nossos Pilares
-
-&emsp;Aqui são apresentados os três fundamentos que sustentam o projeto Desenrolai: **Missão, Visão e Valores**.
-
-<p style={{textAlign: 'center'}}>Figura 5 - Pilares Desenrolai</p>
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page5.png").default} style={{width: 800}} alt="Pilares Desenrolai" />
-        <br />
-    </div>
-</div>
-<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
-
-
-## Modal de Contato
-
-&emsp;Ao clicar no botão "Entrar em Contato", o usuário acessa um modal com formulário para:
-
-* Sugerir novos pontos de coleta
-* Enviar dúvidas ou propostas
-* Estabelecer parcerias
-
-<p style={{textAlign: 'center'}}>Figura 6 - Modal de Contato</p>
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/site/page6.png").default} style={{width: 800}} alt="Modal de Contato" />
-        <br />
-    </div>
-</div>
-<p style={{textAlign: 'center'}}>Fonte:  Material produzido pelos autores (2025)</p>
-
-
-## Conclusão
-
-&emsp;O site Desenrolai foi desenhado para ser informativo, funcional e engajador. Cada seção foi pensada para comunicar com clareza a proposta do aplicativo e facilitar o download pelos usuários interessados. Com uma experiência de navegação simples e visualmente agradável, o site serve como uma vitrine digital que demonstra o valor e os benefícios do app de organização pessoal Desenrolai.
+&emsp;O fluxo do usuário da DenserolaAI foi projetado para eliminar qualquer tipo de atrito. Ao usar o WhatsApp, uma ferramenta que já faz parte do dia a dia do nosso público, e entregar o valor em uma página web simples e direta, garantimos que a jornada seja rápida, intuitiva e, acima de tudo, útil. A experiência completa, do chat à página do roadmap, não leva mais que alguns minutos e entrega ao usuário um plano claro para transformar sua vida financeira.
