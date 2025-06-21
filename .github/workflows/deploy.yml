@@ -42,9 +42,11 @@ jobs:
         working-directory: ./docs
       - name: Build
         run: npm run build
-        working-directory: ./docs
-      - name: Setup Pages
+        working-directory: ./docs      - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          # Enable GitHub Pages if not already enabled
+          enablement: true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
